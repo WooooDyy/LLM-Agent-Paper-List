@@ -8,7 +8,6 @@
 
 <div align=center><img src="./assets/figure1.jpg" width="60%" /></div>
 
----
 
 ## 🌟 Introduction
 
