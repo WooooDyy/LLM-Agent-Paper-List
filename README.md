@@ -29,7 +29,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 ## The Birth of An Agent: Construction of LLM-based Agents
-<div align=center><img src="./assets/figure2.jpg" style="zoom:60%" /></div>
+<div align=center><img src="./assets/figure2.jpg" width="60%" /></div>
 
 ### Brain: Primarily Composed of An LLM
 
@@ -44,7 +44,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ## Agents in Practice: Applications of LLM-based Agents
 
-<div align=center><img src="./assets/figure7.jpg" style="zoom:40%" /></div>
+<div align=center><img src="./assets/figure7.jpg" width="60%" /></div>
 
 ### General Ability of Single Agent
 
@@ -55,7 +55,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 ## Agent Society: From Individuality to Sociality
-<div align=center><img src="./assets/figure12.jpg" style="zoom:30%" /></div>
+<div align=center><img src="./assets/figure12.jpg" width="60%" /></div>
 
 ### Behavior and Personality of LLM-based Agent
 
