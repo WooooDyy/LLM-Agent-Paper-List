@@ -62,7 +62,76 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ### 1.1 Brain: Primarily Composed of An LLM
 
+#### Knowledge
+
+##### Pretrain model
+
+- [2023/04] **Learning Distributed Representations of Sentences from Unlabelled Data.** *Felix Hill(University of Cambridge) et al. arXiv.*[[paper](https://arxiv.org/abs/1602.03483)]
+- [2020/02] **How Much Knowledge Can You Pack Into the Parameters of a Language Model?** *Adam Roberts(Google) et al. arXiv.*[[paper](https://arxiv.org/abs/2002.08910)]
+- [2020/01] **Scaling Laws for Neural Language Models.** *Jared Kaplan(Johns Hopkins University) et al. arXiv.*[[paper](https://arxiv.org/abs/2001.08361)]
+- [2017/12] **Commonsense Knowledge in Machine Intelligence.** *Niket Tandon(Allen Institute for Artificial Intelligence) et al. SIGMOD.*[[paper](https://sigmodrecord.org/publications/sigmodRecord/1712/pdfs/09_reports_Tandon.pdf)]
+- [2011/03] **Natural Language Processing (almost) from Scratch.** *Ronan Collobert(Princeton) et al. arXiv.*[[paper](https://arxiv.org/abs/1103.0398)]]
+
+##### Linguistic knowledge
+
+- [2023/02] **A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity.** *Yejin Bang et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04023)]
+- [2021/06] **Probing Pre-trained Language Models for Semantic Attributes and their Values.** *Meriem Beloucif et al. EMNLP.* [[paper](https://aclanthology.org/2021.findings-emnlp.218/)] 
+- [2020/10] **Probing Pretrained Language Models for Lexical Semantics.** *Ivan Vulić et al. arXiv.*[[paper](https://arxiv.org/abs/2010.05731)]
+- [2019/04] **A Structural Probe for Finding Syntax in Word Representations.** *John Hewitt et al. ACL.*[[paper](https://aclanthology.org/N19-1419/)]
+- [2016/04] **Improved Automatic Keyword Extraction Given More Semantic Knowledge.** *H Leung. Systems for Advanced Applications.*[[paper](https://link.springer.com/chapter/10.1007/978-3-319-32055-7_10)]
+
+##### Commensense knowledge
+
+- [2022/10] **Language Models of Code are Few-Shot Commonsense Learners.** *Aman Madaan et al.arXiv.*[[paper](https://arxiv.org/abs/2210.07128)]
+- [2021/04] **Relational World Knowledge Representation in Contextual Language Models: A Review.** *Tara Safavi et al. arXiv.*[[paper](https://arxiv.org/abs/2104.05837)]
+- [2019/11] **How Can We Know What Language Models Know?** *Zhengbao Jiang et al.arXiv.*[[paper](https://arxiv.org/abs/1911.12543)]
+
+##### Actionable knowledge
+
+- [2023/07] **Large language models in medicine.** *Arun James Thirunavukarasu et al. nature.*[[paper](https://www.nature.com/articles/s41591-023-02448-8)]
+- [2023/06] **DS-1000: A Natural and Reliable Benchmark for Data Science Code Generation.** *Yuhang Lai et al. ICML.*[[paper](https://proceedings.mlr.press/v202/lai23b.html)]
+- [2022/10] **Language Models of Code are Few-Shot Commonsense Learners.** *Aman Madaan et al. arXiv.*[[paper](https://arxiv.org/abs/2210.07128)]
+- [2022/02] **A Systematic Evaluation of Large Language Models of Code.** *Frank F. Xu et al.arXiv.*[[paper](https://arxiv.org/abs/2202.13169)]
+- [2021/10] **Training Verifiers to Solve Math Word Problems.** *Karl Cobbe et al. arXiv.* [[paper](https://arxiv.org/abs/2110.14168)]
+
+##### Potential issues of knowledge
+
+- [2023/05] **Editing Large Language Models: Problems, Methods, and Opportunities.** *Yunzhi Yao et al. arXiv.* [[paper](https://arxiv.org/abs/2305.13172)]
+- [2023/05] **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models.** *Miaoran Li et al. arXiv.*[[paper](https://arxiv.org/abs/2305.14623)]
+- [2023/05] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou et al. arXiv.*[[paper](https://arxiv.org/abs/2305.11738)]
+- [2023/04] **Tool Learning with Foundation Models.** *Yujia Qin et al. arXiv.*[[paper](https://arxiv.org/abs/2304.08354)]
+- [2023/03] **SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models.** *Potsawee Manakul et al. arXiv.* [[paper](https://arxiv.org/abs/2303.08896)]
+- [2022/06] **Memory-Based Model Editing at Scale.** *Eric Mitchell et al. arXiv.*[[paper](https://arxiv.org/abs/2206.06520)]
+- [2022/04] **A Review on Language Models as Knowledge Bases.** *Badr AlKhamissi et al.arXiv.*[[paper](https://arxiv.org/abs/2204.06031)]
+- [2021/04] **Editing Factual Knowledge in Language Models.** *Nicola De Cao et al.arXiv.*[[paper](https://arxiv.org/abs/2104.08164)]
+- [2017/08] **Measuring Catastrophic Forgetting in Neural Networks.** *Ronald Kemker et al.arXiv.*[[paper](https://arxiv.org/abs/1708.02072)]
 ### 1.2 Perception: Multimodal Inputs for LLM-based Agents
+
+
+#### Visual 
+
+- [2023/05] **Language Is Not All You Need: Aligning Perception with Language Models.** *Shaohan Huang et al. arXiv.*[[paper](https://arxiv.org/abs/2302.14045)]]
+- [2023/05] **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.** *Wenliang Dai et al. arXiv.*[[paper](https://arxiv.org/abs/2305.06500)]
+- [2023/05] **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans.** *Tao Gong et al. arXiv.*[[paper](https://arxiv.org/abs/2305.04790)]
+- [2023/05] **PandaGPT: One Model To Instruction-Follow Them All.** *Yixuan Su et al. arXiv.*[[paper](https://arxiv.org/abs/2305.16355)]
+- [2023/04] **Visual Instruction Tuning.** *Haotian Liu et al. arXiv.*[[paper](https://arxiv.org/abs/2304.08485)]
+- [2023/04] **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models.** *Deyao Zhu. arXiv.*[[paper](https://arxiv.org/abs/2304.10592)]
+- [2023/01] **BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models.** *Junnan Li et al. arXiv.* [[paper](https://arxiv.org/abs/2301.12597)]
+- [2022/04] **Flamingo: a Visual Language Model for Few-Shot Learning.** *Jean-Baptiste Alayrac et al. arXiv.*[[paper](https://arxiv.org/abs/2204.14198)]
+- [2021/10] **MobileViT: Light-weight, General-purpose, and Mobile-friendly Vision Transformer.** *Sachin Mehta et al.arXiv.*[[paper](https://arxiv.org/abs/2110.02178)]
+- [2021/05] **MLP-Mixer: An all-MLP Architecture for Vision.** *Ilya Tolstikhin et al.arXiv.*[[paper](https://arxiv.org/abs/2105.01601)]
+- [2020/10] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** *Alexey Dosovitskiy et al. arXiv.*[[paper](https://arxiv.org/abs/2010.11929)]
+- [2017/11] **Neural Discrete Representation Learning.** *Aaron van den Oord et al. arXiv.*[[paper](https://arxiv.org/abs/1711.00937)]
+
+#### Audio
+
+- [2023/06] **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** *Hang Zhang et al. arXiv.*[[paper](https://arxiv.org/abs/2306.02858)]
+- [2023/05] **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages.** *Feilong Chen et al. arXiv.*[[paper](https://arxiv.org/abs/2305.04160)]
+- [2023/05] **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language.** *Zhaoyang Liu et al. arXiv.*[[paper](https://arxiv.org/abs/2305.05662)]
+- [2023/04] **AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head.** *Rongjie Huang et al. arXiv.*[[paper](https://arxiv.org/abs/2304.12995)]
+- [2023/03] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.** *Yongliang Shen et al. arXiv.*[[paper](https://arxiv.org/abs/2303.17580)]
+- [2021/06] **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units.** *Wei-Ning Hsu et al. arXiv.*[[paper](https://arxiv.org/abs/2106.07447)]
+- [2021/04] **AST: Audio Spectrogram Transformer.** *Yuan Gong et al. arXiv. *[[paper](https://arxiv.org/abs/2104.01778)]
 
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
