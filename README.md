@@ -6,7 +6,7 @@
   - You can also download it here:
 - [2023/09/14] We create this repository to introduce a survey of LLM-based agents and list some must-read papers.
 
-<div align=center><img src="./assets/figure1.jpg" width="60%" /></div>
+<div align=center><img src="./assets/figure1.jpg" width="80%" /></div>
 
 
 ## 🌟 Introduction
