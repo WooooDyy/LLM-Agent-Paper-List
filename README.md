@@ -31,13 +31,44 @@ Finally, we discuss a range of key topics and open problems within the field.
   - [🌟 Introduction](#-introduction)
   - [1. The Birth of An Agent: Construction of LLM-based Agents](#1-the-birth-of-an-agent-construction-of-llm-based-agents)
     - [1.1 Brain: Primarily Composed of An LLM](#11-brain-primarily-composed-of-an-llm)
+      - [1.1.1 Natural Language Interaction](#111-natural-language-interaction)
+        - [High-quality generation](#high-quality-generation)
+        - [Deep understanding](#deep-understanding)
+      - [1.1.2 Knowledge](#112-knowledge)
+        - [Pretrain model](#pretrain-model)
+        - [Linguistic knowledge](#linguistic-knowledge)
+        - [Commensense knowledge](#commensense-knowledge)
+        - [Actionable knowledge](#actionable-knowledge)
+        - [Potential issues of knowledge](#potential-issues-of-knowledge)
+      - [1.1.3 Memory](#113-memory)
+        - [Memory capability](#memory-capability)
+          - [Raising the length limit of Transformers](#raising-the-length-limit-of-transformers)
+          - [Summarizing memory](#summarizing-memory)
+          - [Compressing memories with vectors or data structures](#compressing-memories-with-vectors-or-data-structures)
+      - [Memory retrieval](#memory-retrieval)
+      - [1.1.4 Reasoning \& Planning](#114-reasoning--planning)
+        - [Reasoning](#reasoning)
+        - [Planning](#planning)
+          - [Plan formulation](#plan-formulation)
+          - [Plan reflection](#plan-reflection)
+      - [1.1.5 Transferability and Generalization](#115-transferability-and-generalization)
+        - [Unseen task generalization](#unseen-task-generalization)
+        - [In-context learning](#in-context-learning)
+        - [Continual learning](#continual-learning)
     - [1.2 Perception: Multimodal Inputs for LLM-based Agents](#12-perception-multimodal-inputs-for-llm-based-agents)
+      - [Visual](#visual)
+      - [Audio](#audio)
     - [1.3 Action: Expand Action Space of LLM-based Agents](#13-action-expand-action-space-of-llm-based-agents)
       - [Tool Using](#tool-using)
       - [Embodied Action](#embodied-action)
   - [2. Agents in Practice: Applications of LLM-based Agents](#2-agents-in-practice-applications-of-llm-based-agents)
     - [2.1 General Ability of Single Agent](#21-general-ability-of-single-agent)
+      - [2.1.1 Task-orietned Deployment](#211-task-orietned-deployment)
+      - [2.1.2 Innovation-oriented Deployment](#212-innovation-oriented-deployment)
+      - [2.1.3 Lifecycle-oriented Deployment](#213-lifecycle-oriented-deployment)
     - [2.2 Coordinating Potential of Multiple Agents](#22-coordinating-potential-of-multiple-agents)
+      - [2.2.1 Cooperative Interaction for Complementarity](#221-cooperative-interaction-for-complementarity)
+      - [2.2.2 Adversarial Interaction for Advancement](#222-adversarial-interaction-for-advancement)
     - [2.3 Interactive Engagement between Human and Agent](#23-interactive-engagement-between-human-and-agent)
       - [2.3.1 Instructor-Executor Paradigm](#231-instructor-executor-paradigm)
         - [Education](#education)
@@ -461,7 +492,15 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ## Project Maintainers & Contributors
 - Zhiheng Xi （奚志恒, [@WooooDyy](https://github.com/WooooDyy)）
-
+- Wenxiang Chen （陈文翔, [@chenwxOggai](https://github.com/chenwxOggai)）
+- Xin Guo （郭昕, [@XinGuo2002](https://github.com/XinGuo2002)）
+- Wei He（何为, [@hewei2001](https://github.com/hewei2001)）
+- Yiwen Ding （丁怡文, [@Yiwen-Ding](https://github.com/Yiwen-Ding)）
+- Boyang Hong（洪博杨, [@HongBoYang](https://github.com/HBY-hub)）
+- Ming Zhang （张明, [@KongLongGeFDU](https://github.com/KongLongGeFDU)）
+- Junzhe Wang（王浚哲, [@zsxmwjz](https://github.com/zsxmwjz)）
+- Senjie Jin（金森杰, [@Leonnnnnn929](https://github.com/Leonnnnnn929)）
 
 ## Contact
+- Zhiheng Xi: zhxi22@m.fudan.edu.cn
 
