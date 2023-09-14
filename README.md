@@ -1,4 +1,4 @@
-# A Comprehensive Survey of Large Language Model Based Agents: The Past, Present, and Potential
+# The Rise and Potential of Large Language Model Based Agents: A Survey
 🔥 **Must-read papers for LLM-based agents.**
 
 ## 🔔 News
