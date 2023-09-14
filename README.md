@@ -48,11 +48,13 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ### General Ability of Single Agent
 
-### Coordinating Potential of Multiple Agents
+<div align=center><img src="./assets/figure8.jpg" width="60%" /></div>
 
+### Coordinating Potential of Multiple Agents
+<div align=center><img src="./assets/figure9.jpg" width="60%" /></div>
 
 ### Interactive Engagement between Human and Agent
-
+<div align=center><img src="./assets/figure10.jpg" width="60%" /></div>
 
 ## Agent Society: From Individuality to Sociality
 <div align=center><img src="./assets/figure12.jpg" width="60%" /></div>
