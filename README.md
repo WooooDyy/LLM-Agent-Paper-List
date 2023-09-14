@@ -422,7 +422,9 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - Xin Guo （郭昕, [@XinGuo2002](https://github.com/XinGuo2002)）
 - Wei He（何为, [@hewei2001](https://github.com/hewei2001)）
 - Yiwen Ding （丁怡文, [@Yiwen-Ding](https://github.com/Yiwen-Ding)）
+- Boyang Hong（洪博杨, [@HongBoYang](https://github.com/HBY-hub)）
 - Ming Zhang （张明, [@KongLongGeFDU](https://github.com/KongLongGeFDU)）
+- Junzhe Wang（王浚哲, [@zsxmwjz](https://github.com/zsxmwjz)）
 - Senjie Jin（金森杰, [@Leonnnnnn929](https://github.com/Leonnnnnn929)）
 
 ## Contact
