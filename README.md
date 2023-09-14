@@ -107,7 +107,6 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2017/08] **Measuring Catastrophic Forgetting in Neural Networks.** *Ronald Kemker et al.arXiv.*[[paper](https://arxiv.org/abs/1708.02072)]
 ### 1.2 Perception: Multimodal Inputs for LLM-based Agents
 
-
 #### Visual 
 
 - [2023/05] **Language Is Not All You Need: Aligning Perception with Language Models.** *Shaohan Huang et al. arXiv.*[[paper](https://arxiv.org/abs/2302.14045)]]
