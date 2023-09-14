@@ -29,27 +29,27 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](#the-rise-and-potential-of-large-language-model-based-agents-a-survey)
   - [🔔 News](#-news)
   - [🌟 Introduction](#-introduction)
-  - [The Birth of An Agent: Construction of LLM-based Agents](#the-birth-of-an-agent-construction-of-llm-based-agents)
-    - [Brain: Primarily Composed of An LLM](#brain-primarily-composed-of-an-llm)
-    - [Perception: Multimodal Inputs for LLM-based Agents](#perception-multimodal-inputs-for-llm-based-agents)
-    - [Action: Expand Action Space of LLM-based Agents](#action-expand-action-space-of-llm-based-agents)
+  - [1. The Birth of An Agent: Construction of LLM-based Agents](#1-the-birth-of-an-agent-construction-of-llm-based-agents)
+    - [1.1 Brain: Primarily Composed of An LLM](#11-brain-primarily-composed-of-an-llm)
+    - [1.2 Perception: Multimodal Inputs for LLM-based Agents](#12-perception-multimodal-inputs-for-llm-based-agents)
+    - [1.3 Action: Expand Action Space of LLM-based Agents](#13-action-expand-action-space-of-llm-based-agents)
       - [Tool Using](#tool-using)
       - [Embodied Action](#embodied-action)
-  - [Agents in Practice: Applications of LLM-based Agents](#agents-in-practice-applications-of-llm-based-agents)
-    - [General Ability of Single Agent](#general-ability-of-single-agent)
-    - [Coordinating Potential of Multiple Agents](#coordinating-potential-of-multiple-agents)
-    - [Interactive Engagement between Human and Agent](#interactive-engagement-between-human-and-agent)
-      - [Instructor-Executor Paradigm](#instructor-executor-paradigm)
+  - [2. Agents in Practice: Applications of LLM-based Agents](#2-agents-in-practice-applications-of-llm-based-agents)
+    - [2.1 General Ability of Single Agent](#21-general-ability-of-single-agent)
+    - [2.2 Coordinating Potential of Multiple Agents](#22-coordinating-potential-of-multiple-agents)
+    - [2.3 Interactive Engagement between Human and Agent](#23-interactive-engagement-between-human-and-agent)
+      - [2.3.1 Instructor-Executor Paradigm](#231-instructor-executor-paradigm)
         - [Education](#education)
         - [Health](#health)
         - [Other Application](#other-application)
-      - [Equal Partnership Paradigm](#equal-partnership-paradigm)
+      - [2.3.2 Equal Partnership Paradigm](#232-equal-partnership-paradigm)
         - [Empathetic Communicator](#empathetic-communicator)
         - [Human-Level Participant](#human-level-participant)
-  - [Agent Society: From Individuality to Sociality](#agent-society-from-individuality-to-sociality)
-    - [Behavior and Personality of LLM-based Agent](#behavior-and-personality-of-llm-based-agent)
-    - [Environment for Agent Society](#environment-for-agent-society)
-    - [Society Simulation with LLM-based Agents](#society-simulation-with-llm-based-agents)
+  - [3. Agent Society: From Individuality to Sociality](#3-agent-society-from-individuality-to-sociality)
+    - [3.1 Behavior and Personality of LLM-based Agent](#31-behavior-and-personality-of-llm-based-agent)
+    - [3.2 Environment for Agent Society](#32-environment-for-agent-society)
+    - [3.3 Society Simulation with LLM-based Agents](#33-society-simulation-with-llm-based-agents)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
 
@@ -57,14 +57,14 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 
-## The Birth of An Agent: Construction of LLM-based Agents
+## 1. The Birth of An Agent: Construction of LLM-based Agents
 <div align=center><img src="./assets/figure2.jpg" width="60%" /></div>
 
-### Brain: Primarily Composed of An LLM
+### 1.1 Brain: Primarily Composed of An LLM
 
-### Perception: Multimodal Inputs for LLM-based Agents
+### 1.2 Perception: Multimodal Inputs for LLM-based Agents
 
-### Action: Expand Action Space of LLM-based Agents
+### 1.3 Action: Expand Action Space of LLM-based Agents
 
 #### Tool Using
 - [2023/02] Toolformer: Language Models Can Teach Themselves to Use Tools. *Timo Schick et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
@@ -74,21 +74,21 @@ Finally, we discuss a range of key topics and open problems within the field.
 #### Embodied Action
 
 
-## Agents in Practice: Applications of LLM-based Agents
+## 2. Agents in Practice: Applications of LLM-based Agents
 
 <div align=center><img src="./assets/figure7.jpg" width="60%" /></div>
 
-### General Ability of Single Agent
+### 2.1 General Ability of Single Agent
 
 <div align=center><img src="./assets/figure8.jpg" width="60%" /></div>
 
-### Coordinating Potential of Multiple Agents
+### 2.2 Coordinating Potential of Multiple Agents
 <div align=center><img src="./assets/figure9.jpg" width="60%" /></div>
 
-### Interactive Engagement between Human and Agent
+### 2.3 Interactive Engagement between Human and Agent
 <div align=center><img src="./assets/figure10.jpg" width="60%" /></div>
 
-#### Instructor-Executor Paradigm
+#### 2.3.1 Instructor-Executor Paradigm
 
 ##### Education
 
@@ -113,7 +113,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 
-#### Equal Partnership Paradigm
+#### 2.3.2 Equal Partnership Paradigm
 
 ##### Empathetic Communicator
 
@@ -128,15 +128,15 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2023/06] **Decision-Oriented Dialogue for Human-AI Collaboration.** *Jessy Lin et al. CoRR.* [[paper](https://doi.org/10.48550/arXiv.2305.20076)]
 - [2022/11] **Human-level play in the game of Diplomacy by combining language models with strategic reasoning.** *FAIR et al. Science.* [[paper](https://www.science.org/doi/10.1126/science.ade9097)]
 
-## Agent Society: From Individuality to Sociality
+## 3. Agent Society: From Individuality to Sociality
 <div align=center><img src="./assets/figure12.jpg" width="60%" /></div>
 
-### Behavior and Personality of LLM-based Agent
+### 3.1 Behavior and Personality of LLM-based Agent
 
-### Environment for Agent Society
+### 3.2 Environment for Agent Society
 
 
-### Society Simulation with LLM-based Agents
+### 3.3 Society Simulation with LLM-based Agents
 
 - [2023/04] Generative Agents: Interactive Simulacra of Human Behavior. *Joon Sung Park (Stanford) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
    - Agent simulation with LLM-based agents. Some social phenomena are observed.
@@ -149,3 +149,4 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 ## Contact
+
