@@ -5,7 +5,7 @@
 - [2023/09/18] We release our survey paper: Large Language Model Based Agents: The Past, Present, and Potential . 
   - You can also download it here:
 
-<div align=center><img src="./assets/figure1.jpg" style="zoom:40%" /></div>
+<div align=center><img src="./assets/figure1.jpg" width="60%" /></div>
 
 ---
 
