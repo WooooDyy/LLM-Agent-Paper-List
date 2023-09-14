@@ -2,8 +2,9 @@
 🔥 **Must-read papers for LLM-based agents.**
 
 ## 🔔 News
-- [2023/09/18] We release our survey paper: Large Language Model Based Agents: The Past, Present, and Potential . 
+- [2023/09/14] We will release our survey paper: Large Language Model Based Agents: The Past, Present, and Potential . 
   - You can also download it here:
+- [2023/09/14] We create this repository to introduce a survey of LLM-based agents and list some must-read papers.
 
 <div align=center><img src="./assets/figure1.jpg" width="60%" /></div>
 
