@@ -418,7 +418,13 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ## Project Maintainers & Contributors
 - Zhiheng Xi （奚志恒, [@WooooDyy](https://github.com/WooooDyy)）
-
+- Wenxiang Chen （陈文翔, [@chenwxOggai](https://github.com/chenwxOggai)）
+- Xin Guo （郭昕, [@XinGuo2002](https://github.com/XinGuo2002)）
+- Wei He（何为, [@hewei2001](https://github.com/hewei2001)）
+- Yiwen Ding （丁怡文, [@Yiwen-Ding](https://github.com/Yiwen-Ding)）
+- Ming Zhang （张明, [@KongLongGeFDU](https://github.com/KongLongGeFDU)）
+- Senjie Jin（金森杰, [@Leonnnnnn929](https://github.com/Leonnnnnn929)）
 
 ## Contact
+- Zhiheng Xi: zhxi22@m.fudan.edu.cn
 
