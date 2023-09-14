@@ -15,12 +15,14 @@ For a long time, humanity has pursued artificial intelligence (AI) equivalent to
 
 Due to the versatile and remarkable capabilities they demonstrate, large language models (LLMs) are regarded as potential sparks for Artificial General Intelligence (AGI), offering hope for building general AI agents. Many research efforts have leveraged LLMs as the foundation to build AI agents and have achieved significant progress.
 
-In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers. **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
+In this repository, we provide a systematic and comprehensive survey on LLM-based agents, and list some must-read papers. 
 
 Specifically, we start by the general conceptual framework for LLM-based agents: comprising three main components: brain, perception, and action, and the framework can be tailored to suit different applications. 
 Subsequently, we explore the extensive applications of LLM-based agents in three aspects: single-agent scenarios, multi-agent scenarios, and human-agent cooperation. 
 Following this, we delve into agent societies, exploring the behavior and personality of LLM-based agents, the social phenomena that emerge when they form societies, and the insights they offer for human society.
 Finally, we discuss a range of key topics and open problems within the field.
+
+**We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
 
 
