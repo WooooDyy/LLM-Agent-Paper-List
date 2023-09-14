@@ -66,7 +66,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 1. [2023/04] Generative Agents: Interactive Simulacra of Human Behavior. *Joon Sung Park (Stanford) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
    - Agent simulation with LLM-based agents. Some social phenomena are observed.
-2. TODO
+2. [2023/08] AgentSims: An Open-Source Sandbox for Large Language Model Evaluation. *Jiaju Lin (PTA Studio) et al. arXiv.*[[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
+   - A simulated environment for evaluation tasks.
 
 
 ## Project Maintainers & Contributors
