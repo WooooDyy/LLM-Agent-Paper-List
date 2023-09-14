@@ -1,13 +1,13 @@
-# A Comprehensive Survey of Large Language Model Based Agents: The Past, Present, and Potential
+# The Rise and Potential of Large Language Model Based Agents: A Survey
 🔥 **Must-read papers for LLM-based agents.**
 
 ## 🔔 News
-- [2023/09/18] We release our survey paper: Large Language Model Based Agents: The Past, Present, and Potential . 
+- [2023/09/14] We will release our survey paper: Large Language Model Based Agents: The Past, Present, and Potential . 
   - You can also download it here:
+- [2023/09/14] We create this repository to introduce a survey of LLM-based agents and list some must-read papers.
 
-<div align=center><img src="./assets/figure1.jpg" width="60%" /></div>
+<div align=center><img src="./assets/figure1.jpg" width="80%" /></div>
 
----
 
 ## 🌟 Introduction
 
@@ -66,7 +66,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 1. [2023/04] Generative Agents: Interactive Simulacra of Human Behavior. *Joon Sung Park (Stanford) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
    - Agent simulation with LLM-based agents. Some social phenomena are observed.
-2. TODO
+2. [2023/08] AgentSims: An Open-Source Sandbox for Large Language Model Evaluation. *Jiaju Lin (PTA Studio) et al. arXiv.*[[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
+   - A simulated environment for evaluation tasks.
 
 
 ## Project Maintainers & Contributors
