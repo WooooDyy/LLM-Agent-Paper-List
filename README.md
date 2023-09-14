@@ -43,7 +43,7 @@ Finally, we discuss a range of key topics and open problems within the field.
           - [Raising the length limit of Transformers](#raising-the-length-limit-of-transformers)
           - [Summarizing memory](#summarizing-memory)
           - [Compressing memories with vectors or data structures](#compressing-memories-with-vectors-or-data-structures)
-      - [Memory retrieval](#memory-retrieval)
+        - [Memory retrieval](#memory-retrieval)
       - [1.1.4 Reasoning \& Planning](#114-reasoning--planning)
         - [Reasoning](#reasoning)
         - [Planning](#planning)
@@ -187,7 +187,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory.** *Xizhou Zhu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17144)] [[code](https://github.com/OpenGVLab/GITM)]
 - [2023/05] **RET-LLM: Towards a General Read-Write Memory for Large Language Models** *Ali Modarressi (LMU Munich) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14322)] [[code](https://github.com/tloen/alpaca-lora)]
 
-#### Memory retrieval
+##### Memory retrieval
 
 - [2023/08] **Memory Sandbox: Transparent and Interactive Memory Management for Conversational Agents** *Ziheng Huang(University of California—San Diego) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01542)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.*[[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)] 
