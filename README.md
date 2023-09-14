@@ -38,6 +38,9 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### Action: Expand Action Space of LLM-based Agents
 
 #### Tool Using
+1. [2023/02] Toolformer: Language Models Can Teach Themselves to Use Tools *Timo Schick et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
+2. [2023/04] OpenAGI: When LLM Meets Domain Experts *Yingqiang Ge et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
+3. [2023/05] Large Language Models as Tool Makers *Tianle Cai et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/llm-toolmaker)]
 
 #### Embodied Action
 
