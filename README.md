@@ -36,8 +36,8 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [1.1.4 Reasoning \& Planning](#114-reasoning--planning)
       - [1.1.5 Transferability and Generalization](#115-transferability-and-generalization)
     - [1.2 Perception: Multimodal Inputs for LLM-based Agents](#12-perception-multimodal-inputs-for-llm-based-agents)
-      - [Visual](#visual)
-      - [Audio](#audio)
+      - [1.2.1 Visual](#121-visual)
+      - [1.2.2 Audio](#122-audio)
     - [1.3 Action: Expand Action Space of LLM-based Agents](#13-action-expand-action-space-of-llm-based-agents)
       - [1.3.1 Tool Using](#131-tool-using)
       - [1.3.2 Embodied Action](#132-embodied-action)
@@ -237,7 +237,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ### 1.2 Perception: Multimodal Inputs for LLM-based Agents
 
-#### Visual 
+#### 1.2.1 Visual 
 
 - [2023/05] **Language Is Not All You Need: Aligning Perception with Language Models.** *Shaohan Huang et al. arXiv.*[[paper](https://arxiv.org/abs/2302.14045)]]
 - [2023/05] **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning.** *Wenliang Dai et al. arXiv.*[[paper](https://arxiv.org/abs/2305.06500)]
@@ -252,7 +252,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2020/10] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** *Alexey Dosovitskiy et al. arXiv.*[[paper](https://arxiv.org/abs/2010.11929)]
 - [2017/11] **Neural Discrete Representation Learning.** *Aaron van den Oord et al. arXiv.*[[paper](https://arxiv.org/abs/1711.00937)]
 
-#### Audio
+#### 1.2.2 Audio
 
 - [2023/06] **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** *Hang Zhang et al. arXiv.*[[paper](https://arxiv.org/abs/2306.02858)]
 - [2023/05] **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages.** *Feilong Chen et al. arXiv.*[[paper](https://arxiv.org/abs/2305.04160)]
