@@ -1,6 +1,8 @@
 # The Rise and Potential of Large Language Model Based Agents: A Survey
 🔥 **Must-read papers for LLM-based agents.**
 
+Comming soon: Add topic-appropriate introductions to each relevant paper.
+
 ## 🔔 News
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
 - ✨ [2023/09/14] We create this repository to introduce a survey of LLM-based agents and list some must-read papers. More papers will be added soon!
