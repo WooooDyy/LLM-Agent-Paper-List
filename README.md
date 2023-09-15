@@ -262,12 +262,25 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
-#### Tool Using
-- [2023/02] Toolformer: Language Models Can Teach Themselves to Use Tools. *Timo Schick et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
-- [2023/04] OpenAGI: When LLM Meets Domain Experts. *Yingqiang Ge et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
-- [2023/05] Large Language Models as Tool Makers. *Tianle Cai et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/llm-toolmaker)]
+#### 1.3.1 Tool Using
+- [2023/07/31] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.** *Yujia Qin et al. arXiv.* [[paper](https://arxiv.org/abs/2307.16789)] [[code](https://github.com/openbmb/toolbench)] [[dataset](https://paperswithcode.com/dataset/toolbench)]
+- [2023/05/26] **Large Language Models as Tool Makers.** *Tianle Cai et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/llm-toolmaker)]
+- [2023/05/23] **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.** *Cheng Qian et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14318)]
+- [2023/04/17] **Tool Learning with Foundation Models.** *Yujia Qin et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/openbmb/bmtools)]
+- [2023/04/11] **ChemCrow: Augmenting large-language models with chemistry tools.** *Andres M Bran (Laboratory of Artificial Chemical Intelligence, ISIC, EPFL) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05376)] [[code](https://github.com/ur-whitelab/chemcrow-public)]
+- [2023/04/10] **OpenAGI: When LLM Meets Domain Experts.** *Yingqiang Ge et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
+- [2023/03/30] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.** *Yongliang Shen et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
+- [2023/03/08] **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** *Chenfei Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.04671)] [[code](https://github.com/microsoft/visual-chatgpt)]
+- [2023/02/15] **Augmented Language Models: a Survey.** *Grégoire Mialon et al. arXiv.* [[paper](https://arxiv.org/abs/2302.07842)]
+- [2023/02/09] **Toolformer: Language Models Can Teach Themselves to Use Tools.** *Timo Schick et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
+- [2022/05/24] **TALM: Tool Augmented Language Models.** *Aaron Parisi et al. arXiv.* [[paper](https://arxiv.org/abs/2205.12255)]
+- [2022/05/01] **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning.** *Ehud Karpas et al. arXiv.* [[paper](https://arxiv.org/abs/2205.00445)]
+- [2022/04/04] **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** *Michael Ahn et al. arXiv.* [[paper](https://arxiv.org/abs/2204.01691)] 
+- [2021/12/17] **WebGPT: Browser-assisted question-answering with human feedback.** *Reiichiro Nakano et al. arXiv.* [[paper](https://arxiv.org/abs/2112.09332)]
+- [2021/07/07] **Evaluating Large Language Models Trained on Code.** *Mark Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2107.03374)] [[code](https://github.com/openai/human-eval)]
 
-#### Embodied Action
+
+#### 1.3.2 Embodied Action
 - [2023/07] Interactive language: Talking to robots in real time *Corey Lynch et al. IEEE(RAL)* [[paper](https://arxiv.org/pdf/2210.06407.pdf)]
 - [2023/05] Voyager: An open-ended embodied agent with large language models *Guanzhi Wang et al. Arxiv.* [[paper](https://arxiv.org/pdf/2305.16291.pdf)]
 - [2023/05] AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments *Sudipta Paul et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28f699175783a2c828ae74d53dd3da20-Paper-Conference.pdf)]
