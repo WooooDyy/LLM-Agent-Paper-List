@@ -149,6 +149,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Summarizing memory
 
+- [2023/08] **ExpeL: LLM Agents Are Experiential Learners** *Andrew Zhao (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10144)] [[code]([https://github.com/thunlp/ChatEval](https://github.com/Andrewzh112/ExpeL))]
 - [2023/08] **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate** *Chi-Min Chan (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
 - [2023/05] **MemoryBank: Enhancing Large Language Models with Long-Term Memory** *Wanjun Zhong (Harbin Institute of Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10250)] [[code](https://github.com/zhongwanjun/memorybank-siliconfriend)]
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior.** *Joon Sung Park (Stanford University) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
