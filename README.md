@@ -110,7 +110,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2019/04] **A Structural Probe for Finding Syntax in Word Representations.** *John Hewitt et al. ACL.* [[paper](https://aclanthology.org/N19-1419/)]
 - [2016/04] **Improved Automatic Keyword Extraction Given More Semantic Knowledge.** *H Leung. Systems for Advanced Applications.* [[paper](https://link.springer.com/chapter/10.1007/978-3-319-32055-7_10)]
 
-##### Commensense knowledge
+##### Commonsense knowledge
 
 - [2022/10] **Language Models of Code are Few-Shot Commonsense Learners.** *Aman Madaan et al.arXiv.* [[paper](https://arxiv.org/abs/2210.07128)]
 - [2021/04] **Relational World Knowledge Representation in Contextual Language Models: A Review.** *Tara Safavi et al. arXiv.* [[paper](https://arxiv.org/abs/2104.05837)]
