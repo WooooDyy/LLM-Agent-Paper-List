@@ -110,7 +110,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2019/04] **A Structural Probe for Finding Syntax in Word Representations.** *John Hewitt et al. ACL.* [[paper](https://aclanthology.org/N19-1419/)]
 - [2016/04] **Improved Automatic Keyword Extraction Given More Semantic Knowledge.** *H Leung. Systems for Advanced Applications.* [[paper](https://link.springer.com/chapter/10.1007/978-3-319-32055-7_10)]
 
-##### Commensense knowledge
+##### Commonsense knowledge
 
 - [2022/10] **Language Models of Code are Few-Shot Commonsense Learners.** *Aman Madaan et al.arXiv.* [[paper](https://arxiv.org/abs/2210.07128)]
 - [2021/04] **Relational World Knowledge Representation in Contextual Language Models: A Review.** *Tara Safavi et al. arXiv.* [[paper](https://arxiv.org/abs/2104.05837)]
@@ -274,6 +274,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2023/05] **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.** *Cheng Qian et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14318)]
 - [2023/04] **Tool Learning with Foundation Models.** *Yujia Qin et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/openbmb/bmtools)]
 - [2023/04] **ChemCrow: Augmenting large-language models with chemistry tools.** *Andres M Bran (Laboratory of Artificial Chemical Intelligence, ISIC, EPFL) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05376)] [[code](https://github.com/ur-whitelab/chemcrow-public)]
+- [2023/04] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu. arXiv.* [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
 - [2023/04] **OpenAGI: When LLM Meets Domain Experts.** *Yingqiang Ge et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
 - [2023/03] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.** *Yongliang Shen et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
 - [2023/03] **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** *Chenfei Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.04671)] [[code](https://github.com/microsoft/visual-chatgpt)]
@@ -448,6 +449,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ##### Group behaviors
 
+- [2023/09] **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf.** *Yuzhuang Xu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.04658)]
+- [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.** *Weize Chen (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 - [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.** *Qingyun Wu (Pennsylvania State University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
 - [2023/08] **ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate.** *Chi-Min Chan (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
 
