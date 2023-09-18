@@ -26,6 +26,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 **We greatly appreciate any contributions via PRs, issues, emails, or other methods.**
 
+## Table of Content (ToC)
 
 
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](#the-rise-and-potential-of-large-language-model-based-agents-a-survey)
