@@ -65,6 +65,7 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [3.2.2 Virtual Sandbox Environment](#322-virtual-sandbox-environment)
       - [3.2.3 Physical Environment](#323-physical-environment)
     - [3.3 Society Simulation with LLM-based Agents](#33-society-simulation-with-llm-based-agents)
+  - [Citation](#citation)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
 
@@ -534,6 +535,21 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2022/08] **Social Simulacra: Creating Populated Prototypes for Social Computing Systems.** *Joon Sung Park (Stanford University) et al. UIST.* [[paper](https://dl.acm.org/doi/10.1145/3526113.3545616)]
 
 
+## Citation
+If you find this repository useful, please cite our paper:
+
+```
+@misc{xi2023rise,
+      title={The Rise and Potential of Large Language Model Based Agents: A Survey}, 
+      author={Zhiheng Xi and Wenxiang Chen and Xin Guo and Wei He and Yiwen Ding and Boyang Hong and Ming Zhang and Junzhe Wang and Senjie Jin and Enyu Zhou and Rui Zheng and Xiaoran Fan and Xiao Wang and Limao Xiong and Yuhao Zhou and Weiran Wang and Changhao Jiang and Yicheng Zou and Xiangyang Liu and Zhangyue Yin and Shihan Dou and Rongxiang Weng and Wensen Cheng and Qi Zhang and Wenjuan Qin and Yongyan Zheng and Xipeng Qiu and Xuanjing Huang and Tao Gui},
+      year={2023},
+      eprint={2309.07864},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
+
+
 ## Project Maintainers & Contributors
 - Zhiheng Xi （奚志恒, [@WooooDyy](https://github.com/WooooDyy)）
 - Wenxiang Chen （陈文翔, [@chenwxOggai](https://github.com/chenwxOggai)）
@@ -547,4 +563,3 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ## Contact
 - Zhiheng Xi: zhxi22@m.fudan.edu.cn
-
