@@ -5,6 +5,7 @@
 🏃 **Comming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
+- 🥳 [2023/09/20] This project has been listed on [Github Trendings](https://github.com/trending)!  It is a great honor!
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
 - ✨ [2023/09/14] We create this repository to maintain a paper list on LLM-based agents. More papers are coming soon!
 
