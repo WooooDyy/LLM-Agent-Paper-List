@@ -69,6 +69,7 @@ Finally, we discuss a range of key topics and open problems within the field.
   - [Citation](#citation)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
+  - [Star History](#star-history)
 
 
 
@@ -564,3 +565,10 @@ If you find this repository useful, please cite our paper:
 
 ## Contact
 - Zhiheng Xi: zhxi22@m.fudan.edu.cn
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=WooooDyy/LLM-Agent-Paper-List&type=Date)](https://star-history.com/#WooooDyy/LLM-Agent-Paper-List&Date)
+
