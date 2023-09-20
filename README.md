@@ -47,7 +47,7 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [1.3.2 Embodied Action](#132-embodied-action)
   - [2. Agents in Practice: Applications of LLM-based Agents](#2-agents-in-practice-applications-of-llm-based-agents)
     - [2.1 General Ability of Single Agent](#21-general-ability-of-single-agent)
-      - [2.1.1 Task-orietned Deployment](#211-task-orietned-deployment)
+      - [2.1.1 Task-oriented Deployment](#211-task-oriented-deployment)
       - [2.1.2 Innovation-oriented Deployment](#212-innovation-oriented-deployment)
       - [2.1.3 Lifecycle-oriented Deployment](#213-lifecycle-oriented-deployment)
     - [2.2 Coordinating Potential of Multiple Agents](#22-coordinating-potential-of-multiple-agents)
@@ -327,7 +327,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### 2.1 General Ability of Single Agent
 <div align=center><img src="./assets/figure8.jpg" width="60%" /></div>
 
-#### 2.1.1 Task-orietned Deployment
+#### 2.1.1 Task-oriented Deployment
 **In web scenarios**
 - [2023/07] **WebArena: A Realistic Web Environment for Building Autonomous Agents.** *Shuyan Zhou (CMU) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.13854)] [[code](https://webarena.dev/)]
 - [2023/07] **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis.** *Izzeddin Gur (DeepMind) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.12856)] 
