@@ -2,7 +2,7 @@
 
 🔥 **Must-read papers for LLM-based agents.**
 
-🏃 **Comming soon: Add one-sentence intro to each paper.**
+🏃 **Coming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
