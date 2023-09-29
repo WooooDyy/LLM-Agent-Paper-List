@@ -191,6 +191,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ##### Reasoning
 
+- [2023/09] **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs.** *Justin Chih-Yao Chen (University of North Carolina at Chapel Hill) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.13007.pdf)] [[code](https://github.com/dinobby/ReConcile)]
+
 - [2023/05] **Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14497)] [[code](https://github.com/woooodyy/self-polish)]
 
 - [2023-03] **Large Language Models are Zero-Shot Reasoners.** *Takeshi Kojima (The University of Tokyo) et al. arXiv.* [[paper](https://arxiv.org/abs/2205.11916)] [[code](https://github.com/kojima-takeshi188/zero_shot_cot)]
