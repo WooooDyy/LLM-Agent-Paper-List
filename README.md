@@ -1,4 +1,4 @@
-![image](https://github.com/xxupiano/LLM-Agent-Paper-List/assets/43436958/a0b52663-afd5-4512-8c97-90df45a19173)![image](https://github.com/xxupiano/LLM-Agent-Paper-List/assets/43436958/fe820279-82ec-4404-919f-2aca9b02ed44)# The Rise and Potential of Large Language Model Based Agents: A Survey
+# The Rise and Potential of Large Language Model Based Agents: A Survey
 
 🔥 **Must-read papers for LLM-based agents.**
 
