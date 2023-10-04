@@ -1,4 +1,4 @@
-# The Rise and Potential of Large Language Model Based Agents: A Survey
+![image](https://github.com/xxupiano/LLM-Agent-Paper-List/assets/43436958/a0b52663-afd5-4512-8c97-90df45a19173)![image](https://github.com/xxupiano/LLM-Agent-Paper-List/assets/43436958/fe820279-82ec-4404-919f-2aca9b02ed44)# The Rise and Potential of Large Language Model Based Agents: A Survey
 
 🔥 **Must-read papers for LLM-based agents.**
 
@@ -485,7 +485,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2022/01] **Chain-of-thought prompting elicits reasoning in large language models.** *Jason Wei (Google) et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)]
 
 ##### Group behaviors
-
+- [2023/10] **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.** *Jintian Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
 - [2023/09] **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf.** *Yuzhuang Xu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.04658)]
 - [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.** *Weize Chen (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 - [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.** *Qingyun Wu (Pennsylvania State University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
