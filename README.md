@@ -203,6 +203,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 - [2022/03] **Self-Consistency Improves Chain of Thought Reasoning in Language Models.** *Xuezhi Wang (Google Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2203.11171)] [[code](https://github.com/huggingface/transformers/tree/main/src/transformers/models/bart)]
 
+- [2023/02] **Multimodal Chain-of-Thought Reasoning in Language Models.** *Zhuosheng Zhang (Shanghai Jiao Tong University) et al. arXiv.* [[paper](https://arxiv.org/abs/2302.00923)] [[code](https://github.com/amazon-science/mm-cot)]
+
 - [2022/01] **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.** *Jason Wei (Google Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2201.11903)]
 
 
