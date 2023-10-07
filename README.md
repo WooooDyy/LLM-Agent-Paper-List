@@ -306,24 +306,40 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
 #### 1.3.1 Tool Using
-
-- [2023/10] **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond** *Liang Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/PKUnlp-icler/PCA-EVAL)]
-- [2023/07] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.** *Yujia Qin et al. arXiv.* [[paper](https://arxiv.org/abs/2307.16789)] [[code](https://github.com/openbmb/toolbench)] [[dataset](https://paperswithcode.com/dataset/toolbench)]
-- [2023/05] **Large Language Models as Tool Makers.** *Tianle Cai et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/llm-toolmaker)]
-- [2023/05] **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.** *Cheng Qian et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14318)]
-- [2023/04] **Tool Learning with Foundation Models.** *Yujia Qin et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/openbmb/bmtools)]
+- [2023/10] **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond** *Liang Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/PKUnlp-icler/PCA-EVAL)]
+  - HOLMES is a multi-agent cooperation framework that allows LLMs to leverage MLLMs and APIs to gather multimodal information for informed decision-making. 
+- [2023/07] **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs.** *Yujia Qin (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.16789)] [[code](https://github.com/openbmb/toolbench)] [[dataset](https://paperswithcode.com/dataset/toolbench)]
+  - ToolLLM is a general tool-use framework encompassing data construction, model training and evaluation.
+- [2023/05] **Large Language Models as Tool Makers.** *Tianle Cai (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17126)] [[code](https://github.com/ctlllll/llm-toolmaker)]
+  - LATM is a closed-loop framework that takes an initial step towards removing the dependency on the availability of existing tools.
+- [2023/05] **CREATOR: Disentangling Abstract and Concrete Reasonings of Large Language Models through Tool Creation.** *Cheng Qian (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14318)]
+  - CREATOR is a novel framework that empowers LLMs to create their own tools through documentation and code realization.
+- [2023/04] **Tool Learning with Foundation Models.** *Yujia Qin (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/openbmb/bmtools)]
+  - This survey primarily introduces a new paradigm called "tool learning based on foundational models", which combines the advantages of specialized tools and foundational models, achieving higher precision, efficiency, and automation in problem-solving.
 - [2023/04] **ChemCrow: Augmenting large-language models with chemistry tools.** *Andres M Bran (Laboratory of Artificial Chemical Intelligence, ISIC, EPFL) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.05376)] [[code](https://github.com/ur-whitelab/chemcrow-public)]
-- [2023/04] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.** *Qiao Jin, Yifan Yang, Qingyu Chen, Zhiyong Lu. arXiv.* [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
-- [2023/04] **OpenAGI: When LLM Meets Domain Experts.** *Yingqiang Ge et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
-- [2023/03] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.** *Yongliang Shen et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
-- [2023/03] **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** *Chenfei Wu et al. arXiv.* [[paper](https://arxiv.org/abs/2303.04671)] [[code](https://github.com/microsoft/visual-chatgpt)]
-- [2023/02] **Augmented Language Models: a Survey.** *Grégoire Mialon et al. arXiv.* [[paper](https://arxiv.org/abs/2302.07842)]
-- [2023/02] **Toolformer: Language Models Can Teach Themselves to Use Tools.** *Timo Schick et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
-- [2022/05] **TALM: Tool Augmented Language Models.** *Aaron Parisi et al. arXiv.* [[paper](https://arxiv.org/abs/2205.12255)]
-- [2022/05] **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning.** *Ehud Karpas et al. arXiv.* [[paper](https://arxiv.org/abs/2205.00445)]
-- [2022/04] **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** *Michael Ahn et al. arXiv.* [[paper](https://arxiv.org/abs/2204.01691)]
-- [2021/12] **WebGPT: Browser-assisted question-answering with human feedback.** *Reiichiro Nakano et al. arXiv.* [[paper](https://arxiv.org/abs/2112.09332)]
-- [2021/07] **Evaluating Large Language Models Trained on Code.** *Mark Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2107.03374)] [[code](https://github.com/openai/human-eval)]
+  - ChemCrow is an LLM chemistry agent that integrates 13 expert-designed tools and augments the LLM performance in chemistry and emerge new capabilities.
+- [2023/04] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information.** *Qiao Jin (National Institutes of Health), Yifan Yang, Qingyu Chen, Zhiyong Lu. arXiv.* [[paper](https://arxiv.org/abs/2304.09667)] [[code](https://github.com/ncbi/GeneGPT)]
+  - GeneGPT is a model that answer genomics questions. It introduces a novel method for handling challenges with hallucinations by teaching LLMs to use the Web APIs.
+- [2023/04] **OpenAGI: When LLM Meets Domain Experts.** *Yingqiang Ge (Rutgers University) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.04370)] [[code](https://github.com/agiresearch/openagi)]
+  - OpenAGI is an open-source AGI research platform. It introduces a paradigm of LLMs operating various expert models for complex task-solving and proposes an RLTF mechanism to improve the LLM's task-solving ability.
+- [2023/03] **HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face.** *Yongliang Shen (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.17580)] [[code](https://github.com/microsoft/JARVIS)]
+  - HuggingGPT is a system that leverages LLMs to connect various and multimodal AI models in machine learning communities to solve AI tasks.
+- [2023/03] **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.** *Chenfei Wu (Microsoft Research Asia) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.04671)] [[code](https://github.com/microsoft/visual-chatgpt)]
+  - Visual ChatGPT is a system that opens the door to investigating the visual roles of ChatGPT with the help of Visual Foundation Models.
+- [2023/02] **Augmented Language Models: a Survey.** *Grégoire Mialon (Meta AI) et al. TMLR.* [[paper](https://openreview.net/forum?id=jh7wH2AzKK)]
+  - This survey reviews works in which LMs are augmented with the ability to use tools. Augmented LMs can use external modules to expand their context processing ability.
+- [2023/02] **Toolformer: Language Models Can Teach Themselves to Use Tools.** *Timo Schick (Meta AI) et al. arXiv.* [[paper](https://arxiv.org/abs/2302.04761)]
+  - Toolformer shows that LLMs can teach themselves to use external tools with a handful of demonstrations for each API.
+- [2022/05] **TALM: Tool Augmented Language Models.** *Aaron Parisi (Google) et al. arXiv.* [[paper](https://arxiv.org/abs/2205.12255)]
+  - TALM introduces a method that combines non-differentiable tools with LMs, enabling the model to access real-time or private data.
+- [2022/05] **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning.** *Ehud Karpas (AI21 Labs) et al. arXiv.* [[paper](https://arxiv.org/abs/2205.00445)]
+  - MRKL Systems augments LLMs with an easily extensible set of external knowledge and reasoning modules.
+- [2022/04] **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** *Michael Ahn (Google) et al. CoRL.* [[paper](https://proceedings.mlr.press/v205/ichter23a.html)]
+  - SayCan applies LMs in real-world robotic tasks by combining advanced semantic knowledge from LLMs with the value function of pre-trained skills.
+- [2021/12] **WebGPT: Browser-assisted question-answering with human feedback.** *Reiichiro Nakano (OpenAI) et al. arXiv.* [[paper](https://arxiv.org/abs/2112.09332)]
+  - WebGPT answer questions using a webbrowsing environment. It uses imitation learning during training and then optimizes answer quality through human feedback.
+- [2021/07] **Evaluating Large Language Models Trained on Code.** *Mark Chen (OpenAI) et al. arXiv.* [[paper](https://arxiv.org/abs/2107.03374)] [[code](https://github.com/openai/human-eval)]
+  - Codex can synthesize programs from docstrings, that is, creating tools based on documentation.
 
 
 #### 1.3.2 Embodied Action
