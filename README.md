@@ -228,6 +228,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2022/05] **MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning.** *Ehud Karpas (AI21 Labs) et al. arXiv.* [[paper](https://arxiv.org/abs/2205.00445)]
 - [2022/04] **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances.** *Michael Ahn (Robotics at Google) et al. arXiv.* [[paper](https://arxiv.org/abs/2204.01691)]
 - [2023/05] **Agents: An Open-source Framework for Autonomous Language Agents.** *Wangchunshu Zhou (AIWaves) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
+- [2022/12] **Don’t Generate, Discriminate: A Proposal for Grounding Language Models to Real-World Environments.** *Yu Gu (The Ohio State University) et al. ACL.* [[paper](https://aclanthology.org/2023.acl-long.270.pdf)] [[code](https://github.com/dki-lab/Pangu)]
 
 
 ###### Plan reflection
