@@ -154,7 +154,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Raising the length limit of Transformers
 
-- [2023/10] **MemGPT: Towards LLMs as Operating Systems.** *Charles Packer (UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08560)] [[project](https://memgpt.ai/)] [[code](https://github.com/cpacker/MemGPT)] [[dataset](https://huggingface.co/MemGPT)]
+- [2023/10] **MemGPT: Towards LLMs as Operating Systems.** *Charles Packer (UC Berkeley) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.08560)] [[project page](https://memgpt.ai/)] [[code](https://github.com/cpacker/MemGPT)] [[dataset](https://huggingface.co/MemGPT)]
 - [2023/05] **Randomized Positional Encodings Boost Length Generalization of Transformers.** *Anian Ruoss (DeepMind) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16843)] [[code](https://github.com/google-deepmind/randomized_positional_encodings)]
 - [2023-03] **CoLT5: Faster Long-Range Transformers with Conditional Computation.** *Joshua Ainslie (Google Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.09752)]
 - [2022/03] **Efficient Classification of Long Documents Using Transformers.** *Hyunji Hayley Park (Illinois University) et al. arXiv.* [[paper](https://arxiv.org/abs/2203.11258)] [[code](https://github.com/amazon-science/efficient-longdoc-classification)]
@@ -217,7 +217,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan formulation
 
-- [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models.** *Andy Zhou (University of Illinois Urbana-Champaign) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.04406)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch/)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch/)]
+- [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models.** *Andy Zhou (University of Illinois Urbana-Champaign) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.04406)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch/)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch/)]
 - [2023/05] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10601)] [[code](https://github.com/princeton-nlp/tree-of-thought-llm)]
 - [2023/05] **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents.** *Yue Wu (Carnegie Mellon University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.02412)]
 - [2023/05] **Reasoning with Language Model is Planning with World Model.** *Shibo Hao (UC San Diego) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14992)] [[code](https://github.com/Ber666/RAP)]
@@ -235,10 +235,10 @@ Finally, we discuss a range of key topics and open problems within the field.
 ###### Plan reflection
 
 - [2023/10] **Chain-of-Verification Reduces Hallucination in Large Language Models.** *Shehzaad Dhuliawala (Meta AI & ETH Zu ̈rich) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.11495)]
-- [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/anchen1011/FireAct)] [[project page](https://fireact-agent.github.io/)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
+- [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
 - [2023/08] **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning.** *Ning Miao (University of Oxford) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00436)] [[code](https://github.com/NingMiao/SelfCheck)]
 - [2023/05] **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.** *Zhipeng Chen (Renmin University of China) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
 - [2023/03] **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models.** *Xufeng Zhao (University Hamburg) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.08268)] [[code](https://matcha-model.github.io/)]
 - [2022/12] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models.** *Chan Hee Song (The Ohio State University) et al. arXiv.* [[paper](https://arxiv.org/abs/2212.04088)] [[code](https://dki-lab.github.io/LLM-Planner/)]
 - [2022/10] **ReAct: Synergizing Reasoning and Acting in Language Models.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://react-lm.github.io/)]
@@ -249,7 +249,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ##### Unseen task generalization
 
-- [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
+- [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - [2023/05] **Training language models to follow instructions with human feedback.** *Long Ouyang et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
   - InstructGPT: Aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback.
@@ -275,7 +275,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 - [2023/07] **Progressive Prompts: Continual Learning for Language Models.** *Razdaibiedina et al. arXiv.* [[paper](https://arxiv.org/abs/2301.12314)]
   - This work introduces Progressive Prompts, which allows forward transfer and resists catastrophic forgetting, without relying on data replay or a large number of task-specific parameters.
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
   -  Voyager: This is an example of LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention.
 - [2023/01] **A Comprehensive Survey of Continual Learning: Theory, Method and Application.** *Liyuan Wang et al. arXiv.* [[paper](https://arxiv.org/abs/2302.00487)]
   - This survey presents a comprehensive survey of continual learning, seeking to bridge the basic settings, theoretical foundations, representative methods, and practical applications.
@@ -355,7 +355,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - [2023/10] **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond** *Liang Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/PKUnlp-icler/PCA-EVAL)]
 - [2023/07] **Interactive language: Talking to robots in real time.** *Corey Lynch et al. IEEE (RAL)* [[paper](https://arxiv.org/pdf/2210.06407.pdf)]
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
 - [2023/05] **AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments.** *Sudipta Paul et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28f699175783a2c828ae74d53dd3da20-Paper-Conference.pdf)]
 - [2023/05] **EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought.** *Yao Mu et al. Arxiv* [[paper](https://arxiv.org/pdf/2305.15021.pdf)] [[code](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)]
 - [2023/05] **NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models.** *Gengze Zhou et al. Arxiv* [[paper](https://arxiv.org/pdf/2305.16986.pdf)]
@@ -417,7 +417,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2022/03] **ScienceWorld: Is your Agent Smarter than a 5th Grader?** *Ruoyao Wang (University of Arizona) et al. arXiv.* [[paper](https://arxiv.org/abs/2203.07540)] [[code](https://sciworld.apps.allenai.org/)]
 
 #### 2.1.3 Lifecycle-oriented Deployment
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
 - [2023/05] **Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory.** *Xizhou Zhu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.17144)] [[code](https://github.com/OpenGVLab/GITM)]
 - [2023/03] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks.** *Haoqi Yuan (PKU) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.16563)] [[project page](https://sites.google.com/view/plan4mc)]
 - [2023/02] **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents.** *Zihao Wang (PKU) et al. arXiv.* [[paper](https://arxiv.org/abs/2302.01560)] [[code](https://github.com/CraftJarvis/MC-Planner)]
@@ -512,7 +512,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ##### Individual behaviors
 
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
 - [2023/04] **LLM+P: Empowering Large Language Models with Optimal Planning Proficiency.** *Bo Liu (University of Texas) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.11477)] [[code](https://github.com/Cranial-XIX/llm-pddl)]
 - [2023/03] **Reflexion: Language Agents with Verbal Reinforcement Learning.** *Noah Shinn (Northeastern University) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.11366)] [[code](https://github.com/noahshinn024/reflexion)]
 - [2023/03] **PaLM-E: An Embodied Multimodal Language Model.** *Danny Driess (Google) et al. ICML.* [[paper](http://proceedings.mlr.press/v202/driess23a/driess23a.pdf)] [[project page](https://palm-e.github.io/)]
@@ -522,7 +522,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 ##### Group behaviors
 - [2023/10] **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.** *Jintian Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
 - [2023/09] **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf.** *Yuzhuang Xu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.04658)]
-- [2023/09] **Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *Jiaxian Gu oet al. arXiv.* [[Paper](http://arxiv.org/abs/2309.17277)]
+- [2023/09] **Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *Jiaxian Gu oet al. arXiv.* [[paper](http://arxiv.org/abs/2309.17277)]
 
 - [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.** *Weize Chen (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
 - [2023/08] **AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework.** *Qingyun Wu (Pennsylvania State University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.08155)] [[code](https://microsoft.github.io/FLAML/docs/Use-Cases/Autogen/)]
@@ -536,11 +536,11 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ##### Cognition
 
+- [2023/09] **Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *Jiaxian Gu oet al. arXiv.* [[paper](http://arxiv.org/abs/2309.17277)]
 - [2023/03] **Machine Psychology: Investigating Emergent Capabilities and Behavior in Large Language Models Using Psychological Methods.** *Thilo Hagendorff (University of Stuttgart) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.13988)]
 - [2023/03] **Mind meets machine: Unravelling GPT-4's cognitive psychology.** *Sifatkaur Dhingra (Nowrosjee Wadia College) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.11436)]
 - [2022/07] **Language models show human-like content effects on reasoning.** *Ishita Dasgupta (DeepMind) et al. arXiv.* [[paper](https://arxiv.org/abs/2207.07051)]
 - [2022/06] **Using cognitive psychology to understand GPT-3.** *Marcel Binz et al. arXiv.* [[paper](https://arxiv.org/abs/2206.14576)]
-- [2023/09] **Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *Jiaxian Gu oet al. arXiv.* [[Paper](http://arxiv.org/abs/2309.17277)]
 
 
 ##### Emotion
@@ -574,7 +574,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2023/10] **Humanoid Agents: Platform for Simulating Human-like Generative Agents.** *Zhilin Wang (University of Washington and NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05418)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)] [[demo](https://www.humanoidagents.com/)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.04026)] [[project page](https://www.agentsims.com/)] [[code](https://github.com/py499372727/AgentSims/)]
 - [2023/05] **Training Socially Aligned Language Models in Simulated Human Society.** *Ruibo Liu (Dartmouth College) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
-- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[code](https://github.com/MineDojo/Voyager)] [[project page](https://voyager.minedojo.org/)]
+- [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
 - [2023/04] **Generative Agents: Interactive Simulacra of Human Behavior.** *Joon Sung Park (Stanford University) et al. arXiv.* [[paper](https://arxiv.org/abs/2304.03442)] [[code](https://github.com/joonspk-research/generative_agents)]
 - [2023/03] **Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks.** *Haoqi Yuan (PKU) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.16563)] [[project page](https://sites.google.com/view/plan4mc)]
 - [2022/06] **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge.** *Linxi Fan (NVIDIA) et al. NeurIPS.* [[paper](https://papers.nips.cc/paper_files/paper/2022/file/74a67268c5cc5910f64938cac4526a90-Paper-Datasets_and_Benchmarks.pdf)] [[project page](https://minedojo.org/)]
