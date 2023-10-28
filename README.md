@@ -138,6 +138,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ##### Potential issues of knowledge
 
+- [2023/10] **FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation.** *Tu Vu (Google) et al. arXiv* [[paper](https://arxiv.org/abs/2310.03214)] [[code](https://github.com/freshllms/freshqa)]
 - [2023/05] **Editing Large Language Models: Problems, Methods, and Opportunities.** *Yunzhi Yao et al. arXiv.* [[paper](https://arxiv.org/abs/2305.13172)]
 - [2023/05] **Self-Checker: Plug-and-Play Modules for Fact-Checking with Large Language Models.** *Miaoran Li et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14623)]
 - [2023/05] **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing.** *Zhibin Gou et al. arXiv.* [[paper](https://arxiv.org/abs/2305.11738)]
