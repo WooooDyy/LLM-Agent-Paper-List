@@ -471,6 +471,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 
 **Ordered cooperation**
+- [2023/10] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/08] **CGMI: Configurable General Multi-Agent Interaction Framework.** *Shi Jinxin (East China Normal University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.12503)]
 - [2023/08] **ProAgent: Building Proactive Cooperative AI with Large Language Models.** *Ceyao Zhang (The Chinese University of Hong Kong, Shenzhen) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
 - [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.** *Weize Chen (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
