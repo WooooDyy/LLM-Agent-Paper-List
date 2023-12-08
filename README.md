@@ -248,6 +248,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan formulation
 
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models.** *Andy Zhou (University of Illinois Urbana-Champaign) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.04406)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch/)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch/)]
 - [2023/05] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10601)] [[code](https://github.com/princeton-nlp/tree-of-thought-llm)]
 - [2023/05] **Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents.** *Yue Wu (Carnegie Mellon University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.02412)]
@@ -265,6 +266,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan reflection
 
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Chain-of-Verification Reduces Hallucination in Large Language Models.** *Shehzaad Dhuliawala (Meta AI & ETH Zu ̈rich) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.11495)]
 - [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
 - [2023/08] **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning.** *Ning Miao (University of Oxford) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00436)] [[code](https://github.com/NingMiao/SelfCheck)]
@@ -304,6 +306,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ##### Continual learning
 
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/07] **Progressive Prompts: Continual Learning for Language Models.** *Razdaibiedina et al. arXiv.* [[paper](https://arxiv.org/abs/2301.12314)]
   - This work introduces Progressive Prompts, which allows forward transfer and resists catastrophic forgetting, without relying on data replay or a large number of task-specific parameters.
 - [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
@@ -384,6 +387,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 #### 1.3.2 Embodied Action
+- [2023/11] **An Embodied Generalist Agent in 3D World.** *Jiangyong Huang (BIGAI & Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.12871)] [[project page](https://embodied-generalist.github.io/)]
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - [2023/10] **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond** *Liang Chen et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/PKUnlp-icler/PCA-EVAL)]
 - [2023/07] **Interactive language: Talking to robots in real time.** *Corey Lynch et al. IEEE (RAL)* [[paper](https://arxiv.org/pdf/2210.06407.pdf)]
@@ -472,6 +477,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 **Ordered cooperation**
 - [2023/10] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
+- [2023/09] **MindAgent: Emerging Gaming Interaction.** *Ran Gong (UCLA) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://mindagent.github.io/)]
 - [2023/08] **CGMI: Configurable General Multi-Agent Interaction Framework.** *Shi Jinxin (East China Normal University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.12503)]
 - [2023/08] **ProAgent: Building Proactive Cooperative AI with Large Language Models.** *Ceyao Zhang (The Chinese University of Hong Kong, Shenzhen) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
 - [2023/08] **AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents.** *Weize Chen (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/OpenBMB/AgentVerse)]
@@ -558,6 +564,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ##### Group behaviors
 - [2023/10] **Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View.** *Jintian Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02124)] [[code](https://github.com/zjunlp/MachineSoM)]
+- [2023/09] **MindAgent: Emerging Gaming Interaction.** *Ran Gong (UCLA) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://mindagent.github.io/)]
 - [2023/09] **Exploring Large Language Models for Communication Games: An Empirical Study on Werewolf.** *Yuzhuang Xu (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.04658)]
 - [2023/09] **Suspicion Agent: Playing Imperfect Information Games with Theory of Mind Aware GPT-4** *Jiaxian Gu oet al. arXiv.* [[paper](http://arxiv.org/abs/2309.17277)]
 
@@ -608,6 +615,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 #### 3.2.2 Virtual Sandbox Environment
 
+- [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Humanoid Agents: Platform for Simulating Human-like Generative Agents.** *Zhilin Wang (University of Washington and NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.05418)] [[code](https://github.com/HumanoidAgents/HumanoidAgents)] [[demo](https://www.humanoidagents.com/)]
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.04026)] [[project page](https://www.agentsims.com/)] [[code](https://github.com/py499372727/AgentSims/)]
 - [2023/05] **Training Socially Aligned Language Models in Simulated Human Society.** *Ruibo Liu (Dartmouth College) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16960)] [[code](https://github.com/agi-templar/Stable-Alignment)]
@@ -618,6 +626,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 #### 3.2.3 Physical Environment
 
+- [2023/11] **An Embodied Generalist Agent in 3D World.** *Jiangyong Huang (BIGAI & Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.12871)] [[project page](https://embodied-generalist.github.io/)]
 - [2023/09] **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking.** *Homanga Bharadhwaj (Carnegie Mellon University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.01918)] [[project page](https://robopen.github.io/)]
 - [2023/05] **AVLEN: Audio-Visual-Language Embodied Navigation in 3D Environments.** *Sudipta Paul et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/28f699175783a2c828ae74d53dd3da20-Paper-Conference.pdf)]
 - [2023/03] **PaLM-E: An Embodied Multimodal Language Model.** *Danny Driess (Google) et al. ICML.* [[paper](http://proceedings.mlr.press/v202/driess23a/driess23a.pdf)] [[project page](https://palm-e.github.io/)]
