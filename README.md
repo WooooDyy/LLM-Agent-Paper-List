@@ -576,6 +576,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2023/07] **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models.** *Zhao Mandi, Shreeya Jain, Shuran Song (Columbia University) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.04738)] [[code](https://project-roco.github.io/)]
 - [2023/08] **ProAgent: Building Proactive Cooperative AI with Large Language Models.** *Ceyao Zhang (The Chinese University of Hong Kong, Shenzhen) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.11339)] [[code](https://pku-proagent.github.io/)]
 
+- [2023/06] **Homophily in An Artificial Social Network of Agents Powered By Large Language Models.** *James K. He (University of Cambridge) et al. PsyArXiv.* [[paper](https://doi.org/10.21203/rs.3.rs-3096289/v1)]
+
 #### 3.1.2 Personality
 
 ##### Cognition
