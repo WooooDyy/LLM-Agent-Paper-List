@@ -525,10 +525,10 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2023/08] **Multi-Turn Dialogue Agent as Sales' Assistant in Telemarketing.** *Wanting Gao (JNU) et al. IEEE.* [[paper](https://doi.org/10.1109/IJCNN54540.2023.10192042)]
 - [2023/07] **PEER: A Collaborative Language Model.** *Timo Schick (Meta AI) et al. arXiv.* [[paper](https://openreview.net/pdf?id=KbYevcLjnc)]
 - [2023/07] **DIALGEN: Collaborative Human-LM Generated Dialogues for Improved Understanding of Human-Human Conversations.** *Bo-Ru Lu (UW) et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2307.07047)]
+- [2023/08] **LLM As DBA [vision].** *Xuanhe Zhou (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.05481)]
 - [2023/06] **AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn.** *Difei Gao (NUS) et al. arXiv.* [[paper](https://doi.org/10.48550/arXiv.2306.08640)]
 - [2023/05] **Agents: An Open-source Framework for Autonomous Language Agents.** *Wangchunshu Zhou (AIWaves) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
-
-
+- [2023/12] **D-Bot: Database Diagnosis System using Large Language Models.** *Xuanhe Zhou (Tsinghua) et al. arXiv.* [[paper](https://arxiv.org/abs/2312.01454)] [[code](https://github.com/TsinghuaDatabaseGroup/DB-GPT)]
 
 
 #### 2.3.2 Equal Partnership Paradigm
