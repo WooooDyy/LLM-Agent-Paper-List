@@ -335,7 +335,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2021/05] **MLP-Mixer: An all-MLP Architecture for Vision.** *Ilya Tolstikhin et al.arXiv.* [[paper](https://arxiv.org/abs/2105.01601)]
 - [2020/10] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** *Alexey Dosovitskiy et al. arXiv.* [[paper](https://arxiv.org/abs/2010.11929)]
 - [2017/11] **Neural Discrete Representation Learning.** *Aaron van den Oord et al. arXiv.* [[paper](https://arxiv.org/abs/1711.00937)]
-
+- [2024/01] **Agent ai: Surveying the horizons of multimodal interaction.** *Zane Durante et al. arXiv.* [[paper](https://arxiv.org/abs/2401.03568)]
 #### 1.2.2 Audio
 
 - [2023/06] **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** *Hang Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2306.02858)]
