@@ -96,6 +96,7 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [3.2.2 Virtual Sandbox Environment](#322-virtual-sandbox-environment)
       - [3.2.3 Physical Environment](#323-physical-environment)
     - [3.3 Society Simulation with LLM-based Agents](#33-society-simulation-with-llm-based-agents)
+  - [4. Agent Benchmark: Assessment the capabilities of LLM-powered Agent](#4-agent-benchmark-assessment-the-capabilities-of-LLM-powered-agent)
   - [Citation](#citation)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
@@ -646,6 +647,14 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 ## 4. Other Topics
 
 ### 4.1 Benchmarks for LLM-based Agents
+- [2023/11] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration."** *Lin Xu et al.* (NUS, ByteDance, Stanford & UC Berkeley) arXiv. [[paper](https://arxiv.org/abs/2311.08562)] [[Project Page](https://zhiyuanhubj.github.io/MAgIC/)] [[Code](https://github.com/cathyxl/MAgIC)]
+  - The work presents a benchmarking framework for evaluating LLMs in multi-agent settings, showing a 50% average improvement using Probabilistic Graphical Modeling.
+- [2023/10] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03302)] [[code](https://github.com/snap-stanford/MLAgentBench)]
+- [2023/08] **"AgentBench: Evaluating LLMs as Agents."** *Xiao Liu (THU) et al.* arXiv. [[paper](https://arxiv.org/abs/2308.03688)] [[code](https://github.com/THUDM/AgentBench)] [[project page](https://llmbench.ai/)]
+  - AGENTBENCH, a benchmark for assessing LLMs as agents, shows a performance gap between top commercial and open-source models.
+- [2023/10] **"SmartPlay : A Benchmark for LLMs as Intelligent Agents."** *Yue Wu (CMU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/microsoft/SmartPlay)]
+  - SmartPlay is a benchmark and methodology for evaluating LLMs as intelligent agents, featuring six diverse games to assess key capabilities, providing a roadmap for identifying gaps in current methodologie
+
 
 ## Citation
 If you find this repository useful, please cite our paper:
