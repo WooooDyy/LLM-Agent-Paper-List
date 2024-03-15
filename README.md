@@ -5,7 +5,6 @@
 🏃 **Coming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
-- 🦾 [2024/01/25] [AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION](https://arxiv.org/pdf/2401.03568.pdf)
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
 - ✨ [2023/09/14] We create this repository to maintain a paper list on LLM-based agents. More papers are coming soon!
@@ -335,7 +334,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2021/05] **MLP-Mixer: An all-MLP Architecture for Vision.** *Ilya Tolstikhin et al.arXiv.* [[paper](https://arxiv.org/abs/2105.01601)]
 - [2020/10] **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.** *Alexey Dosovitskiy et al. arXiv.* [[paper](https://arxiv.org/abs/2010.11929)]
 - [2017/11] **Neural Discrete Representation Learning.** *Aaron van den Oord et al. arXiv.* [[paper](https://arxiv.org/abs/1711.00937)]
-
+- [2024/01] **Agent ai: Surveying the horizons of multimodal interaction.** *Zane Durante et al. arXiv.* [[paper](https://arxiv.org/abs/2401.03568)]
 #### 1.2.2 Audio
 
 - [2023/06] **Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding.** *Hang Zhang et al. arXiv.* [[paper](https://arxiv.org/abs/2306.02858)]
