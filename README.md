@@ -5,6 +5,7 @@
 🏃 **Coming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
+- 💫 [2023/02/08] New paper R3 on RL for LLM agent reasoning has been released! Paper: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808). Codes: [LLM-Reverse-Curriculum-RL](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL).
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
 - ✨ [2023/09/14] We create this repository to maintain a paper list on LLM-based agents. More papers are coming soon!
@@ -227,7 +228,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 #### 1.1.4 Reasoning & Planning
 
 ##### Reasoning
-
+- [2024/02] **Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.05808)] [[Code](https://github.com/WooooDyy/LLM-Agent-Paper-List)]
 - [2023/09] **ReConcile: Round-Table Conference Improves Reasoning via Consensus among Diverse LLMs.** *Justin Chih-Yao Chen (University of North Carolina at Chapel Hill) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.13007.pdf)] [[code](https://github.com/dinobby/ReConcile)]
 
 - [2023/05] **Self-Polish: Enhance Reasoning in Large Language Models via Problem Refinement.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14497)] [[code](https://github.com/woooodyy/self-polish)]
