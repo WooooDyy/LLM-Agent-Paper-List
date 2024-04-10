@@ -639,7 +639,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 
 ### 3.3 Society Simulation with LLM-based Agents
-
+- [2024/03] **Emergence of Social Norms in Large Language Model-based Agent Societies.** *Siyue Ren et al. arXiv.* [[paper](https://arxiv.org/abs/2403.08251)] [[code](https://github.com/sxswz213/CRSEC)] 
 - [2023/08] **AgentSims: An Open-Source Sandbox for Large Language Model Evaluation.** *Jiaju Lin (PTA Studio) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.04026)] [[project page](https://www.agentsims.com/)] [[code](https://github.com/py499372727/AgentSims/)]
 - [2023/07] **S<sup>3</sup>: Social-network Simulation System with Large Language Model-Empowered Agents.** *Chen Gao (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.14984)]
 - [2023/07] **Epidemic Modeling with Generative Agents.** *Ross Williams (Virginia Tech) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.04986)] [[code](https://github.com/bear96/GABM-Epidemic)] 
