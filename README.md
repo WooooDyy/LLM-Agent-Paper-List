@@ -439,7 +439,7 @@ Human-Level Computer Control.** *Longtao Zheng (Nanyang Technological University
 - [2022/07] **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2207.01206)] [[code](https://webshop-pnlp.github.io/)]
 - [2021/12] **WebGPT: Browser-assisted question-answering with human feedback.** *Reiichiro Nakano (OpenAI) et al. arXiv.* [[paper](https://arxiv.org/abs/2112.09332)]
 - [2023/05] **Agents: An Open-source Framework for Autonomous Language Agents.** *Wangchunshu Zhou (AIWaves) et al. arXiv.* [[paper](https://arxiv.org/pdf/2309.07870.pdf)] [[code](https://github.com/aiwaves-cn/agents)]
-
+- [2024/04] **OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2404.07972)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OSWorld)] [[data viewer](https://os-world.github.io/explorer.html)]
 
 **In life scenarios**
 - [2023/10] **OpenAgents: An Open Platform for Language Agents in the Wild.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2310.10634)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OpenAgents)] [[demo](https://chat.xlang.ai)]
@@ -660,6 +660,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
   - AGENTBENCH, a benchmark for assessing LLMs as agents, shows a performance gap between top commercial and open-source models.
 - [2023/10] **"SmartPlay : A Benchmark for LLMs as Intelligent Agents."** *Yue Wu (CMU & Microsoft) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.01557)] [[code](https://github.com/microsoft/SmartPlay)]
   - SmartPlay is a benchmark and methodology for evaluating LLMs as intelligent agents, featuring six diverse games to assess key capabilities, providing a roadmap for identifying gaps in current methodologie
+- [2024/04] **"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments."** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2404.07972)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OSWorld)] [[data viewer](https://os-world.github.io/explorer.html)]
+  - OSWorld🖥️ is a unified, real computer environment for multimodal agents to benchmark open-ended computer tasks with arbitrary apps and interfaces on Ubuntu, Windows, & macOS.
 
 
 ## Citation
