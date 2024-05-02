@@ -5,7 +5,8 @@
 🏃 **Coming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
-- 💫 [2023/02/08] New paper R3 on RL for LLM agent reasoning has been released! Paper: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808). Codes: [LLM-Reverse-Curriculum-RL](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL).
+- 🎉 [2024/05/02] Our paper ([Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)) was accepted by ICML 2024!
+- 💫 [2024/02/08] New paper R3 on RL for LLM agent reasoning has been released! Paper: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808). Codes: [LLM-Reverse-Curriculum-RL](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL).
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
 - ✨ [2023/09/14] We create this repository to maintain a paper list on LLM-based agents. More papers are coming soon!
