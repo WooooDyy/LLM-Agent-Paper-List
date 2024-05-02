@@ -351,7 +351,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
 #### 1.3.1 Tool Using
-- - [2023/10] **OpenAgents: An Open Platform for Language Agents in the Wild.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2310.10634)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OpenAgents)] [[demo](https://chat.xlang.ai)]
+- [2024/02] **Towards Uncertainty-Aware Language Agent.** *Jiuzhou Han (Monash University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.14016)] [[project page](https://uala-agent.github.io)] [[code](https://github.com/Jiuzhouh/Uncertainty-Aware-Language-Agent)]
+- [2023/10] **OpenAgents: An Open Platform for Language Agents in the Wild.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2310.10634)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OpenAgents)] [[demo](https://chat.xlang.ai)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - [2023/10] **Towards End-to-End Embodied Decision Making via Multi-modal Large Language Model: Explorations with GPT4-Vision and Beyond** *Liang Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.02071)] [[code](https://github.com/PKUnlp-icler/PCA-EVAL)]
   - HOLMES is a multi-agent cooperation framework that allows LLMs to leverage MLLMs and APIs to gather multimodal information for informed decision-making. 
