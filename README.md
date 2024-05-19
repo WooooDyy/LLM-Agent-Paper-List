@@ -269,6 +269,8 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan reflection
 
+- [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.17574)] [[code](https://github.com/zwq2018/Agent-Pro)]
+- [2024/01] **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.02009)]
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Chain-of-Verification Reduces Hallucination in Large Language Models.** *Shehzaad Dhuliawala (Meta AI & ETH Zu ̈rich) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.11495)]
 - [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
