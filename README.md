@@ -603,6 +603,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 ##### Character
 
+- [2024/05] **TimeChara: Evaluating Point-in-Time Character Hallucination of Role-Playing Large Language Models.** *Jaewoo Ahn (Seoul National University) et al. arXiv.* [[paper](https://arxiv.org/abs/2405.18027)] [[code](https://github.com/ahnjaewoo/timechara)]
 - [2023/10] **Character-LLM: A Trainable Agent for Role-Playing.** *Yunfan Shao (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.10158)] [[code](https://github.com/choosewhatulike/trainable-agents/)]
 - [2023/07] **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models.** *Keyu Pan (ByteDance) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.16180)] [[code](https://github.com/HarderThenHarder/transformers_tasks)]
 - [2023/07] **Personality Traits in Large Language Models.** *Mustafa Safdari (DeepMind) et al. arXiv.* [[paper](https://arxiv.org/abs/2307.00184)] [[code](https://github.com/HarderThenHarder/transformers_tasks)]
