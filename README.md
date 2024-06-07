@@ -5,6 +5,11 @@
 🏃 **Coming soon: Add one-sentence intro to each paper.**
 
 ## 🔔 News
+- ☄️ [2024/06/07] AgentGym has been released for developing and evolving LLM-based agents across diverse environments!
+  - Paper: [AgentGym](https://arxiv.org/abs/2406.04151).
+  - Project page: [https://agentgym.github.io/](https://agentgym.github.io/).
+  - Codes: [Platform and Implementations](https://github.com/WooooDyy/AgentGym).
+  - Huggingface resources:  [AgentTraj-L](https://huggingface.co/datasets/AgentGym/AgentTraj-L), [AgentEval](https://huggingface.co/datasets/AgentGym/AgentEval), [AgentEvol-7B](https://huggingface.co/AgentGym/AgentEvol-7B).
 - 🎉 [2024/05/02] Our paper ([Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)) was accepted by ICML 2024!
 - 💫 [2024/02/08] New paper R3 on RL for LLM agent reasoning has been released! Paper: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808). Codes: [LLM-Reverse-Curriculum-RL](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL).
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
