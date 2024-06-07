@@ -10,7 +10,7 @@
   - Project page: [https://agentgym.github.io/](https://agentgym.github.io/).
   - Codes: [Platform and Implementations](https://github.com/WooooDyy/AgentGym).
   - Huggingface resources:  [AgentTraj-L](https://huggingface.co/datasets/AgentGym/AgentTraj-L), [AgentEval](https://huggingface.co/datasets/AgentGym/AgentEval), [AgentEvol-7B](https://huggingface.co/AgentGym/AgentEvol-7B).
-- 🎉 [2024/05/02] Our paper ([Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)) was accepted by ICML 2024!
+- 🎉 [2024/05/02] R3 ([Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808)) was accepted by ICML 2024!
 - 💫 [2024/02/08] New paper R3 on RL for LLM agent reasoning has been released! Paper: [Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning](https://arxiv.org/abs/2402.05808). Codes: [LLM-Reverse-Curriculum-RL](https://github.com/WooooDyy/LLM-Reverse-Curriculum-RL).
 - 🥳 [2023/09/20] This project has been listed on [GitHub Trendings](https://github.com/trending)!  It is a great honor!
 - 💥 [2023/09/15] Our survey is released! See [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/abs/2309.07864) for the paper!
@@ -103,7 +103,9 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [3.2.2 Virtual Sandbox Environment](#322-virtual-sandbox-environment)
       - [3.2.3 Physical Environment](#323-physical-environment)
     - [3.3 Society Simulation with LLM-based Agents](#33-society-simulation-with-llm-based-agents)
-  - [4. Agent Benchmark: Assessment the capabilities of LLM-powered Agent](#4-agent-benchmark-assessment-the-capabilities-of-LLM-powered-agent)
+  - [4. Other Topics]
+    - [4.1 Benchmarks for LLM-based Agents]
+    - [4.2 Training and Optimizing LLM-based Agents]
   - [Citation](#citation)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
@@ -291,7 +293,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 #### 1.1.5 Transferability and Generalization
 
 ##### Unseen task generalization
-
+- [2024/06] **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2406.04151)] [[project page](https://agentgym.github.io/)] [[Codes and Platform](https://github.com/WooooDyy/AgentGym)] [[Dataset](https://huggingface.co/datasets/AgentGym/AgentTraj-L)] [[Benchmark](https://huggingface.co/datasets/AgentGym/AgentEval)] [[Model](https://huggingface.co/AgentGym/AgentEvol-7B)].
 - [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 - [2023/05] **Training language models to follow instructions with human feedback.** *Long Ouyang et al. NeurIPS.* [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
@@ -671,6 +673,11 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 - [2024/04] **"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments."** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2404.07972)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OSWorld)] [[data viewer](https://os-world.github.io/explorer.html)]
   - OSWorld🖥️ is a unified, real computer environment for multimodal agents to benchmark open-ended computer tasks with arbitrary apps and interfaces on Ubuntu, Windows, & macOS.
 
+### 4.2 Training and Optimizing LLM-based Agents
+- [2024/06] **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2406.04151)] [[project page](https://agentgym.github.io/)] [[Codes and Platform](https://github.com/WooooDyy/AgentGym)] [[Dataset](https://huggingface.co/datasets/AgentGym/AgentTraj-L)] [[Benchmark](https://huggingface.co/datasets/AgentGym/AgentEval)] [[Model](https://huggingface.co/AgentGym/AgentEvol-7B)].
+- [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
+- [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
+- [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
 
 ## Citation
 If you find this repository useful, please cite our paper:
