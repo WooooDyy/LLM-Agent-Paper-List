@@ -103,9 +103,9 @@ Finally, we discuss a range of key topics and open problems within the field.
       - [3.2.2 Virtual Sandbox Environment](#322-virtual-sandbox-environment)
       - [3.2.3 Physical Environment](#323-physical-environment)
     - [3.3 Society Simulation with LLM-based Agents](#33-society-simulation-with-llm-based-agents)
-  - [4. Other Topics]
-    - [4.1 Benchmarks for LLM-based Agents]
-    - [4.2 Training and Optimizing LLM-based Agents]
+  - [4. Other Topics](#4-other-topics)
+    - [4.1 Benchmarks for LLM-based Agents](#41-benchmarks-for-llm-based-agents)
+    - [4.2 Training and Optimizing LLM-based Agents](#42-training-and-optimizing-llm-based-agents)
   - [Citation](#citation)
   - [Project Maintainers \& Contributors](#project-maintainers--contributors)
   - [Contact](#contact)
