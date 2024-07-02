@@ -284,7 +284,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 - [2023/08] **SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning.** *Ning Miao (University of Oxford) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.00436)] [[code](https://github.com/NingMiao/SelfCheck)]
 - [2023/05] **ChatCoT: Tool-Augmented Chain-of-Thought Reasoning on Chat-based Large Language Models.** *Zhipeng Chen (Renmin University of China) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.14323)] [[code](https://github.com/RUCAIBOX/ChatCoT)]
 - [2023/05] **Voyager: An Open-Ended Embodied Agent with Large Language Models.** *Guanzhi Wang (NVIDIA) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://voyager.minedojo.org/)] [[code](https://github.com/MineDojo/Voyager)]
-- [2023/03] **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models.** *Xufeng Zhao (University Hamburg) et al. arXiv.* [[paper](https://arxiv.org/abs/2303.08268)] [[code](https://matcha-model.github.io/)]
+- [2023/03] **Chat with the Environment: Interactive Multimodal Perception Using Large Language Models.** *Xufeng Zhao (University Hamburg) et al. IROS.* [[paper](https://arxiv.org/abs/2303.08268)] [[code](https://matcha-model.github.io/)]
 - [2022/12] **LLM-Planner: Few-Shot Grounded Planning for Embodied Agents with Large Language Models.** *Chan Hee Song (The Ohio State University) et al. arXiv.* [[paper](https://arxiv.org/abs/2212.04088)] [[code](https://dki-lab.github.io/LLM-Planner/)]
 - [2022/10] **ReAct: Synergizing Reasoning and Acting in Language Models.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2210.03629)] [[code](https://react-lm.github.io/)]
 - [2022/07] **Inner Monologue: Embodied Reasoning through Planning with Language Models.** *Wenlong Huang (Robotics at Google) et al. arXiv.* [[paper](https://arxiv.org/abs/2207.05608)] [[code](https://innermonologue.github.io/)]
@@ -400,6 +400,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 
 #### 1.3.2 Embodied Action
+- [2024/05] **Agentic Skill Discovery.** *Xufeng Zhao (University of Hamburg) et al. arXiv.* [[paper](https://arxiv.org/abs/2405.15019)] [[code](https://github.com/xf-zhao/Agentic-Skill-Discovery)]
 - [2023/12] **Towards Learning a Generalist Model for Embodied Navigation.** *Duo Zheng (The Chinese University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2312.02010)] [[code](https://github.com/zd11024/NaviLLM)]
 - [2023/11] **An Embodied Generalist Agent in 3D World.** *Jiangyong Huang (BIGAI & Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.12871)] [[project page](https://embodied-generalist.github.io/)]
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
