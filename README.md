@@ -281,6 +281,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan reflection
 
+- [2024/03] **LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning.**  *Shu Wang (UCLA) et al. IROS 2024.* [[Paper](https://arxiv.org/abs/2403.11552)][[Code](https://github.com/AssassinWS/LLM-TAMP)]
 - [2024/02] **Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2402.17574)] [[code](https://github.com/zwq2018/Agent-Pro)]
 - [2024/01] **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives** *Wenqi Zhang (Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.02009)]
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
