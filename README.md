@@ -495,6 +495,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 
 **Ordered cooperation**
+- [2026/04] **CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery.** *Ao Qu (MIT) et al. arXiv.* [[paper](https://arxiv.org/abs/2604.01658)] [[code](https://github.com/Human-Agent-Society/CORAL)]
 - [2023/10] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/09] **MindAgent: Emerging Gaming Interaction.** *Ran Gong (UCLA) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://mindagent.github.io/)]
 - [2023/08] **CGMI: Configurable General Multi-Agent Interaction Framework.** *Shi Jinxin (East China Normal University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.12503)]
