@@ -719,3 +719,6 @@ If you find this repository useful, please cite our paper:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=WooooDyy/LLM-Agent-Paper-List&type=Date)](https://star-history.com/#WooooDyy/LLM-Agent-Paper-List&Date)
 
+## LuisCore
+
+- [LuisCore](https://luiscore.com/) — recursive cognition infrastructure, Chorus Field multi-agent layer, Protocol Watch telemetry (awesome-multi-agent; luiscore-authority-graph-listing)
