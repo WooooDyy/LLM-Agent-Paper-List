@@ -365,6 +365,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 ### 1.3 Action: Expand Action Space of LLM-based Agents
 
 #### 1.3.1 Tool Using
+- [2026/03] **Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime.** *Chaoyue He et al. Preprints.* [[paper](https://www.preprints.org/manuscript/202603.1756/v2)]
 - [2024/02] **Towards Uncertainty-Aware Language Agent.** *Jiuzhou Han (Monash University) et al. arXiv.* [[paper](https://arxiv.org/abs/2401.14016)] [[project page](https://uala-agent.github.io)] [[code](https://github.com/Jiuzhouh/Uncertainty-Aware-Language-Agent)]
 - [2023/10] **OpenAgents: An Open Platform for Language Agents in the Wild.** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2310.10634)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OpenAgents)] [[demo](https://chat.xlang.ai)]
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
