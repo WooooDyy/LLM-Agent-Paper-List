@@ -263,6 +263,7 @@ Finally, we discuss a range of key topics and open problems within the field.
 
 ###### Plan formulation
 
+- [2026/05] **Planning with the Views via Scene Self-Exploration.** *Kangrui Wang (Northwestern University) et al. arXiv.* [[paper](https://arxiv.org/abs/2605.29563)] [[project page](https://viewagent.github.io/)] [[code](https://github.com/mll-lab-nu/ViewAgent)]
 - [2023/11] **JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models.** *ZiHao Wang (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2311.05997)] [[code](https://github.com/CraftJarvis/JARVIS-1)]
 - [2023/10] **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models.** *Andy Zhou (University of Illinois Urbana-Champaign) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.04406)] [[project page](https://andyz245.github.io/LanguageAgentTreeSearch/)] [[code](https://github.com/andyz245/LanguageAgentTreeSearch/)]
 - [2023/05] **Tree of Thoughts: Deliberate Problem Solving with Large Language Models.** *Shunyu Yao (Princeton University) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.10601)] [[code](https://github.com/princeton-nlp/tree-of-thought-llm)]
@@ -718,4 +719,3 @@ If you find this repository useful, please cite our paper:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=WooooDyy/LLM-Agent-Paper-List&type=Date)](https://star-history.com/#WooooDyy/LLM-Agent-Paper-List&Date)
-
