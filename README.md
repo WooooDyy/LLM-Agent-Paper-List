@@ -677,6 +677,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
   - SmartPlay is a benchmark and methodology for evaluating LLMs as intelligent agents, featuring six diverse games to assess key capabilities, providing a roadmap for identifying gaps in current methodologie
 - [2024/04] **"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments."** *XLang Lab (The University of Hong Kong) arXiv.* [[paper](https://arxiv.org/abs/2404.07972)] [[project page](https://docs.xlang.ai)] [[code](https://github.com/xlang-ai/OSWorld)] [[data viewer](https://os-world.github.io/explorer.html)]
   - OSWorld🖥️ is a unified, real computer environment for multimodal agents to benchmark open-ended computer tasks with arbitrary apps and interfaces on Ubuntu, Windows, & macOS.
+- [2026/04] **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"** *Reacher Zhang et al.* arXiv. [[paper](https://arxiv.org/abs/2604.08523)] [[project page](https://claw-bench.com/)] [[code](https://github.com/TIGER-AI-Lab/ClawBench)]
+  - ClawBench evaluates browser agents on real-world online tasks using isolated runs and records browser actions, screenshots, HTTP traffic, and agent messages for reproducible analysis.
 
 ### 4.2 Training and Optimizing LLM-based Agents
 - [2024/06] **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2406.04151)] [[project page](https://agentgym.github.io/)] [[codes and platform](https://github.com/WooooDyy/AgentGym)] [[dataset](https://huggingface.co/datasets/AgentGym/AgentTraj-L)] [[benchmark](https://huggingface.co/datasets/AgentGym/AgentEval)] [[model](https://huggingface.co/AgentGym/AgentEvol-7B)].
@@ -718,4 +720,3 @@ If you find this repository useful, please cite our paper:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=WooooDyy/LLM-Agent-Paper-List&type=Date)](https://star-history.com/#WooooDyy/LLM-Agent-Paper-List&Date)
-
