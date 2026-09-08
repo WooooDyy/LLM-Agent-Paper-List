@@ -679,6 +679,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
   - OSWorld🖥️ is a unified, real computer environment for multimodal agents to benchmark open-ended computer tasks with arbitrary apps and interfaces on Ubuntu, Windows, & macOS.
 
 ### 4.2 Training and Optimizing LLM-based Agents
+
+- [2026/08] **Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report.** *Yuhan Sun (TaoLive AIGC LLM Team) et al. arXiv.* [[paper](https://arxiv.org/abs/2608.15763)] [[project page](https://sunyuhan19981208.github.io/Harness-Aware-Training/)]
 - [2024/06] **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2406.04151)] [[project page](https://agentgym.github.io/)] [[codes and platform](https://github.com/WooooDyy/AgentGym)] [[dataset](https://huggingface.co/datasets/AgentGym/AgentTraj-L)] [[benchmark](https://huggingface.co/datasets/AgentGym/AgentEval)] [[model](https://huggingface.co/AgentGym/AgentEvol-7B)].
 - [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
 - [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
