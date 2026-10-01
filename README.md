@@ -668,6 +668,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 ## 4. Other Topics
 
 ### 4.1 Benchmarks for LLM-based Agents
+- [2026/09] **"TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces."** *Dehai Min et al.* (ByteDance & University of Illinois at Chicago) arXiv. [[paper](https://arxiv.org/abs/2609.33295)] [[project page](https://zhishanq.github.io/TraceDance/)]
+  - Builds targeted agent behavior benchmarks from real deployment traces and grades a model's next turn at recorded decision points, covering actions, failure handling, and evidence-supported claims without environment replay.
 - [2023/11] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration."** *Lin Xu et al.* (NUS, ByteDance, Stanford & UC Berkeley) arXiv. [[paper](https://arxiv.org/abs/2311.08562)] [[Project Page](https://zhiyuanhubj.github.io/MAgIC/)] [[Code](https://github.com/cathyxl/MAgIC)]
   - The work presents a benchmarking framework for evaluating LLMs in multi-agent settings, showing a 50% average improvement using Probabilistic Graphical Modeling.
 - [2023/10] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03302)] [[code](https://github.com/snap-stanford/MLAgentBench)]
