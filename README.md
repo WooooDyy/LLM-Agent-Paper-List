@@ -332,7 +332,7 @@ Finally, we discuss a range of key topics and open problems within the field.
   - This survey presents a comprehensive survey of continual learning, seeking to bridge the basic settings, theoretical foundations, representative methods, and practical applications.
 - [2022/11] **Continual Learning of Natural Language Processing Tasks: A Survey.** *Zixuan Ke et al. arXiv.* [[paper](https://arxiv.org/abs/2211.12701)]
   - This survey presents a comprehensive review and analysis of the recent progress of CL in NLP.
-
+- [2026/10] **From a Prompt to Repertoires: Evolving Functional REpertoires Enable LLM Continual Learning** *Fengyuan Liu (The Chinese University of Hong Kong, Shenzhen) et al.arXiv.* [[paper](https://arxiv.org/abs/2610.11373)]
 
 ### 1.2 Perception: Multimodal Inputs for LLM-based Agents
 
@@ -681,9 +681,9 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 ### 4.2 Training and Optimizing LLM-based Agents
 - [2024/06] **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments.** *Zhiheng Xi (Fudan University) et al. arXiv.* [[paper](https://arxiv.org/abs/2406.04151)] [[project page](https://agentgym.github.io/)] [[codes and platform](https://github.com/WooooDyy/AgentGym)] [[dataset](https://huggingface.co/datasets/AgentGym/AgentTraj-L)] [[benchmark](https://huggingface.co/datasets/AgentGym/AgentEval)] [[model](https://huggingface.co/AgentGym/AgentEvol-7B)].
 - [2023/10] **FireAct: Toward Language Agent Fine-tuning.** *Baian Chen (System2 Research) et al. arXiv.* [[paper](https://arxiv.org/abs/2305.16291)] [[project page](https://fireact-agent.github.io/)] [[code](https://github.com/anchen1011/FireAct)] [[dataset](https://github.com/anchen1011/FireAct/tree/main/data)]
-- [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)]
+- [2023/10] **AgentTuning: Enabling Generalized Agent Abilities for LLMs.** *Aohan Zeng (Tsinghua University) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.12823)] [[project page](https://thudm.github.io/AgentTuning/)] [[code](https://github.com/THUDM/AgentTuning)] [[dataset](https://huggingface.co/datasets/THUDM/AgentInstruct)] 
 - [2023/10] **Lemur: Harmonizing Natural Language and Code for Language Agents** *Yiheng Xu (University of Hong Kong) et al. arXiv.* [[paper](https://arxiv.org/abs/2310.06830)] [[code](https://github.com/OpenLemur/Lemur)]
-
+- [2026/10] **Environmental Feedback Modeling Matters: Rethinking Feedback Treatment in Agentic Hindsight Self-Distillation** *Hangxi Guo (The Chinese University of Hong Kong, Shenzhen) et al.arXiv.* [[paper](https://arxiv.org/pdf/2610.11384)]
 ## Citation
 If you find this repository useful, please cite our paper:
 
