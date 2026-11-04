@@ -670,6 +670,8 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 ## 4. Other Topics
 
 ### 4.1 Benchmarks for LLM-based Agents
+- [2026/10] **"Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution."** *Pengcheng Huang (Northeastern University) et al.* arXiv. [[paper](https://arxiv.org/abs/2610.17816)] [[project page](https://passionate11.github.io/ec2-bench-project-page/)] [[code](https://github.com/OpenBMB/EC2-Bench)] [[dataset](https://huggingface.co/datasets/chengpingan/EC2-Bench)]
+  - EC²-Bench (EC2-Bench) benchmarks edge-cloud collaboration for long-horizon LLM agents on 128 executable digital-workspace tasks (100 with privacy annotations), jointly measuring task performance, cloud cost and privacy exposure across query routing, per-step routing, edge-controlled delegation and edge-controlled advisory.
 - [2023/11] **"MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration."** *Lin Xu et al.* (NUS, ByteDance, Stanford & UC Berkeley) arXiv. [[paper](https://arxiv.org/abs/2311.08562)] [[Project Page](https://zhiyuanhubj.github.io/MAgIC/)] [[Code](https://github.com/cathyxl/MAgIC)]
   - The work presents a benchmarking framework for evaluating LLMs in multi-agent settings, showing a 50% average improvement using Probabilistic Graphical Modeling.
 - [2023/10] **"Benchmarking Large Language Models As AI Research Agents."** *Qian Huang (Stanford) et al.* arXiv. [[paper](https://arxiv.org/abs/2310.03302)] [[code](https://github.com/snap-stanford/MLAgentBench)]
