@@ -495,6 +495,7 @@ and Technology) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.01423)]
 
 
 **Ordered cooperation**
+- [2026/10] **MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation.** *Yuhan Sun (Alibaba Group and Zhejiang University) et al. arXiv.* [[paper](https://arxiv.org/abs/2610.23234)] [[project page](https://sunyuhan19981208.github.io/posts/multiagent-opd/)]
 - [2023/10] **AutoAgents: A Framework for Automatic Agent Generation.** *Guangyao Chen (Peking University) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.17288)] [[code](https://github.com/Link-AGI/AutoAgents)]
 - [2023/09] **MindAgent: Emerging Gaming Interaction.** *Ran Gong (UCLA) et al. arXiv.* [[paper](https://arxiv.org/abs/2309.09971)] [[code](https://mindagent.github.io/)]
 - [2023/08] **CGMI: Configurable General Multi-Agent Interaction Framework.** *Shi Jinxin (East China Normal University) et al. arXiv.* [[paper](https://arxiv.org/abs/2308.12503)]
